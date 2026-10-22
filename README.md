@@ -22,7 +22,7 @@ The build reads `config.json` and `content/*.json`, then writes the site to `doc
 
 The repo is public: github.com/jirv71/everydaydigitalexplained. GitHub Pages serves `main:/docs` at https://jirv71.github.io/everydaydigitalexplained/.
 
-To update the site: `python build.py`, then `git add -A && git commit -m "..." && git push`. Pages redeploys in about a minute.
+To update the site: `python build.py`, then `git add -A && git commit -m "..." && git push`. Pages redeploys in about a minute. After that, run `python build.py --ping` to tell Bing and the other IndexNow search engines about the changes.
 
 **Custom domain (once you own one):**
 1. Set `site_url` in `config.json` to `https://yourdomain.com` and rebuild. Links then drop the `/everydaydigitalexplained` prefix.

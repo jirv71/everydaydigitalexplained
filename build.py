@@ -237,6 +237,8 @@ def build():
     DIST.mkdir()
     shutil.copy(ROOT / "styles.css", DIST / "styles.css")
     (DIST / ".nojekyll").write_text("")  # GitHub Pages: serve files as-is
+    if cfg.get("indexnow_key"):  # proves site ownership to Bing/IndexNow (see README)
+        (DIST / f'{cfg["indexnow_key"]}.txt').write_text(cfg["indexnow_key"])
 
     for p in pages:
         write(f'{p["slug"]}/index.html', page_html(cfg, p, pages))
@@ -285,5 +287,18 @@ We link those sources on the page and show the date we last checked them.</p>
     print(f"Built {len(pages)} pages -> {DIST}")
 
 
+def ping_indexnow():
+    """Tell Bing and other IndexNow engines about every URL in the sitemap. Run after a push is live."""
+    import urllib.request
+    cfg = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+    urls = re.findall(r"<loc>([^<]+)</loc>", (DIST / "sitemap.xml").read_text(encoding="utf-8"))
+    body = json.dumps({"host": urlparse(cfg["site_url"]).netloc, "key": cfg["indexnow_key"],
+                       "keyLocation": url(cfg, f'{cfg["indexnow_key"]}.txt'), "urlList": urls}).encode()
+    req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
+                                 headers={"Content-Type": "application/json; charset=utf-8"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        print(f"IndexNow: HTTP {r.status} for {len(urls)} URLs")
+
+
 if __name__ == "__main__":
-    build()
+    ping_indexnow() if "--ping" in sys.argv else build()
