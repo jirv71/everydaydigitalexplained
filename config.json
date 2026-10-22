@@ -1,0 +1,22 @@
+{
+  "site_name": "Everyday Digital Explained",
+  "site_url": "https://jirv71.github.io/everydaydigitalexplained",
+  "tagline": "Plain-English steps for protecting your parents and running a small business. Every fact checked against the official source.",
+  "youtube_channel": "https://www.youtube.com/@EverydayDigitalExplained",
+  "tiktok_profile": "https://www.tiktok.com/@sunoutgunout",
+  "email_form_action": "",
+  "links": {
+    "kit": {"label": "Scam-Proof Your Family Kit ($7.99)", "url": "https://www.etsy.com/listing/4583390806", "own": true},
+    "biz_kit": {"label": "Job Notes to Invoice Kit", "url": "", "own": true},
+    "gusto": {"label": "Gusto payroll", "url": "", "own": false},
+    "freshbooks": {"label": "FreshBooks invoicing", "url": "", "own": false},
+    "jobber": {"label": "Jobber for field service", "url": "", "own": false},
+    "aura": {"label": "Aura identity monitoring", "url": "", "own": false},
+    "nordpass": {"label": "NordPass password manager", "url": "", "own": false}
+  },
+  "cta_sets": {
+    "kit": ["kit", "aura", "nordpass"],
+    "biz": ["biz_kit", "freshbooks", "jobber", "gusto"],
+    "none": []
+  }
+}

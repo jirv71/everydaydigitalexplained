@@ -1,0 +1,210 @@
+{
+  "slug": "first-employee-payroll-what-software-does",
+  "topic_id": "s-biz-04-what-gusto-payroll-does",
+  "lane": "A",
+  "series": "S-BIZ",
+  "title": "What does payroll software do when you hire your first employee?",
+  "meta_description": "Employee or contractor, the IRS steps (EIN, W-4, I-9, FICA, FUTA, deposits, W-2s due Feb. 1, 2027) and what payroll software can't do for you.",
+  "answer": "Full-service payroll software figures each paycheck, withholds and pays payroll taxes, and files the forms; Gusto, for example, says it files W-2s and reports new hires for you. But the IRS says you, the employer, are still ultimately responsible for federal payroll tax deposits and payments, even when a payroll company does the work. You also still decide if your helper is really an employee, get an EIN, collect Form W-4, complete Form I-9 and check that deposits were made. For 2026 wages, W-2s are due to employees and the Social Security Administration by February 1, 2027.",
+  "steps": [
+    {
+      "name": "Decide whether your helper is an employee or a contractor",
+      "text": "Under IRS common-law rules, a worker is generally your employee if you have the right to control what will be done and how it will be done. The IRS looks at three kinds of facts: behavioral control, financial control and the type of relationship. If you're not sure, you or the worker can file Form SS-8 to ask the IRS to decide."
+    },
+    {
+      "name": "Get an EIN and your state accounts",
+      "text": "Apply for an Employer Identification Number at IRS.gov/EIN. It's free, and the IRS warns to beware of websites that charge for one. The SBA says to find out whether you need state or local tax IDs, and you may need to register with your state workforce agency for unemployment insurance."
+    },
+    {
+      "name": "Do the day-one paperwork",
+      "text": "Ask your new employee to fill out Form W-4 for federal income tax withholding. The employee must complete Section 1 of Form I-9 by their first day of work, and you must look at their documents and complete Section 2 within 3 business days of the hire date. Keep Form I-9 in your files; don't send it to USCIS."
+    },
+    {
+      "name": "Report the new hire to your state",
+      "text": "The IRS says you must report every new employee to your state's new-hire registry. The SBA's example reports within 20 days of the hire date; check your state's deadline."
+    },
+    {
+      "name": "Withhold and pay payroll taxes",
+      "text": "From each paycheck, withhold federal income tax based on the employee's W-4, plus 6.2% Social Security tax and 1.45% Medicare tax. You pay a matching 6.2% and 1.45%. For 2026, Social Security tax stops at $184,500 of wages; Medicare has no limit. You also owe federal unemployment (FUTA) tax: 6.0% of the first $7,000 of each employee's wages, or 0.6% if you get the full credit for paying state unemployment tax."
+    },
+    {
+      "name": "Deposit on time and file each quarter",
+      "text": "In its first calendar year, a new employer that files Form 941 deposits on a monthly schedule. That means each month's payroll taxes are due by the 15th of the next month. Deposits must be made electronically, for example through EFTPS, which is free. File Form 941 by April 30, July 31, October 31 and January 31, unless the IRS tells you in writing to file Form 944 once a year, and file Form 940 for FUTA once a year."
+    },
+    {
+      "name": "Send W-2s and keep your records",
+      "text": "For 2026 wages, give each employee a Form W-2 and file Copy A with the Social Security Administration by February 1, 2027. The usual January 31 date moves to the next business day because January 31, 2027 is a Sunday. Keep all employment tax records for at least 4 years."
+    }
+  ],
+  "details": [
+    {
+      "heading": "Employee or contractor: the IRS common-law rules",
+      "paragraphs": [
+        "The IRS says what matters is whether you have the right to control the details of how the work is done, even if you give the worker freedom. Publication 15-A says a worker is an independent contractor if you have the right to control or direct only the result of the work, not the means and methods of getting it done.",
+        "The IRS groups the facts into three categories. Behavioral: does the business control, or have the right to control, what the worker does and how they do the job? Financial: does the business control the business side of the job, such as how the worker is paid and whether they have unreimbursed expenses? Type of relationship: are there written contracts or employee-type benefits, and is the work a key part of your regular business?",
+        "If you treat an employee as a contractor and have no reasonable basis for doing so, the IRS says you may be held liable for employment taxes for that worker. The Labor Department uses a different test, called the \"economic reality\" test, for federal minimum wage and overtime law. It says that test is broader than the common-law standard. It proposed new rules on the test on February 26, 2026."
+      ]
+    },
+    {
+      "heading": "What payroll software automates",
+      "paragraphs": [
+        "A full-service payroll service takes your employees' pay rates and hours, figures each paycheck and the taxes to withhold, and pays your team. Gusto, for example, says on its website that all local, state and federal payroll taxes are calculated, filed and paid automatically, and that it issues and files W-2s and 1099s and sends them to employees and contractors. It lists Forms 941 and 940 among the federal forms it files.",
+        "Gusto also says it automatically reports new hires to the government, lets new employees e-sign forms like the W-4 and I-9 when they onboard themselves, and can run payroll automatically each pay period. Other payroll services publish their own feature lists, so compare exactly what each one files and pays for you.",
+        "The IRS says you can have a payroll service or other trusted third party make your electronic federal tax deposits. Those services may charge a fee; EFTPS, IRS Direct Pay and your IRS business tax account are free."
+      ]
+    },
+    {
+      "heading": "What stays your responsibility",
+      "paragraphs": [
+        "The IRS says the employer is ultimately responsible for depositing and paying federal tax liabilities. If a payroll company doesn't pay, the IRS may charge penalties and interest to your account. The IRS suggests three habits. Register for EFTPS with your own PIN and check your payments regularly. Keep your own address on file with the IRS, not the provider's. And treat a provider's first missed or late payment as a red flag.",
+        "Software also can't decide these things for you: whether a worker is an employee or a contractor; looking at the employee's documents for Form I-9; entering correct hours and pay rates; and paying at least minimum wage and any overtime owed. Under federal wage law, the Labor Department says to keep payroll records for at least 3 years, and the time cards and other records that wages are figured from for 2 years.",
+        "State rules are yours to check, too. The SBA says unemployment insurance varies by state, and it lists workers' compensation as a required benefit, provided through a commercial carrier, on a self-insured basis or through a state program. If your state hasn't repaid money it borrowed from the federal government for unemployment benefits, it's a \"credit reduction state,\" and you pay extra FUTA tax."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need payroll software for just one employee?",
+      "a": "It's your choice. The SBA lists \"choose an in-house or external service for administering payroll\" as one of the steps of hiring, and IRS Publication 15 explains how to figure, deposit and report the taxes yourself. If you do it yourself, you use the withholding steps in Publication 15-T and make deposits electronically, for example through EFTPS."
+    },
+    {
+      "q": "If my payroll company makes a mistake, who is responsible?",
+      "a": "You are. The IRS says the employer is ultimately responsible for the deposit and payment of federal tax liabilities, and it may charge penalties and interest to your account if a third party doesn't pay. That's why the IRS suggests checking your deposits with your own EFTPS login."
+    },
+    {
+      "q": "When are W-2s due for 2026 wages?",
+      "a": "By February 1, 2027, both to your employees and to the Social Security Administration. That's because January 31, 2027 falls on a Sunday. Even if you get an extension to file, you still must give employees their W-2s by February 1, 2027."
+    },
+    {
+      "q": "Do I have to pay FUTA tax for one helper?",
+      "a": "Generally yes, if in 2025 or 2026 you paid wages of $1,500 or more in any calendar quarter, or had at least one employee for some part of a day in 20 or more different weeks. For 2026, FUTA is 6.0% of the first $7,000 of each employee's wages, or 0.6% if you get the full 5.4% credit for state unemployment tax. You deposit it once the amount you owe is over $500."
+    },
+    {
+      "q": "Can I just pay my helper as a contractor to keep it simple?",
+      "a": "Only if they really are an independent contractor under the rules. If you treat an employee as a contractor without a reasonable basis, the IRS says you may be held liable for the employment taxes. If you're unsure, file Form SS-8 or talk to a tax professional."
+    }
+  ],
+  "warnings": [
+    "Using a payroll company doesn't move the legal responsibility. The IRS says the employer is ultimately responsible for federal payroll tax deposits and payments.",
+    "Check your deposits yourself with your own EFTPS login. The IRS says a provider's first missed or late payment should be a red flag.",
+    "The tax numbers on this page are for 2026 wages. The Social Security wage base can change each year, so check the 2027 Publication 15 for 2027 paychecks.",
+    "Your state has its own payroll rules, such as income tax withholding, unemployment tax and workers' compensation. Check with your state agencies."
+  ],
+  "sources": [
+    {
+      "label": "Publication 15 (2026), (Circular E), Employer's Tax Guide",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/pub/irs-pdf/p15.pdf",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Publication 15-A (2026), Employer's Supplemental Tax Guide",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/pub/irs-pdf/p15a.pdf",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Independent contractor (self-employed) or employee?",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Outsourcing payroll duties",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/outsourcing-payroll-duties",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Get an employer identification number",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "2026 General Instructions for Forms W-2 and W-3",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/pub/irs-pdf/iw2w3.pdf",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Instructions for Form 940 (2025)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/pub/irs-pdf/i940.pdf",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "I-9, Employment Eligibility Verification",
+      "publisher": "U.S. Citizenship and Immigration Services",
+      "url": "https://www.uscis.gov/i-9",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Completing Section 1, Employee Information and Attestation",
+      "publisher": "U.S. Citizenship and Immigration Services",
+      "url": "https://www.uscis.gov/i-9-central/completing-form-i-9/completing-section-1-employee-information-and-attestation",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Completing Section 2, Employer Review and Attestation",
+      "publisher": "U.S. Citizenship and Immigration Services",
+      "url": "https://www.uscis.gov/i-9-central/completing-form-i-9/completing-section-2-employer-review-and-attestation",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Hire and manage employees",
+      "publisher": "U.S. Small Business Administration",
+      "url": "https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Fact Sheet 13: Employee or Independent Contractor Classification Under the FLSA",
+      "publisher": "U.S. Department of Labor, Wage and Hour Division",
+      "url": "https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Fact Sheet 21: Recordkeeping Requirements under the FLSA",
+      "publisher": "U.S. Department of Labor, Wage and Hour Division",
+      "url": "https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Unemployment insurance",
+      "publisher": "U.S. Department of Labor",
+      "url": "https://www.dol.gov/general/topic/unemployment-insurance",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Gusto payroll features (vendor page, product features only)",
+      "publisher": "Gusto",
+      "url": "https://gusto.com/product/payroll/features",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Gusto hiring and onboarding (vendor page, product features only)",
+      "publisher": "Gusto",
+      "url": "https://gusto.com/product/hr/hiring-onboarding",
+      "checked": "2026-10-21"
+    }
+  ],
+  "last_verified": "2026-10-21",
+  "valid_until": "2026-12-31",
+  "cta": "biz",
+  "target_questions": [
+    "What does payroll software do for a small business?",
+    "What do I need to do before hiring my first employee?",
+    "Is my helper an employee or an independent contractor?",
+    "When are W-2s due in 2027?",
+    "If I use a payroll service, am I still responsible for payroll taxes?"
+  ],
+  "uncertain": [
+    "2027 Social Security wage base: search results attribute $192,300 for 2027 to the Social Security Administration (announced 2026-10-14), but ssa.gov returned HTTP 403 to every fetch, so the figure could not be confirmed and is not on the page. The page uses only the 2026 figure ($184,500) from Publication 15 (2026) and sets valid_until to 2026-12-31 so it is re-checked against the 2027 Publication 15.",
+    "Labor Department independent-contractor test: Fact Sheet 13 (Revised March 2024) says the 2024 rule remains in effect for private litigation, that WHD's enforcement position is in Field Assistance Bulletin 2025-1 (May 1, 2025), and that a proposed rule was announced February 26, 2026 (comments due April 28, 2026). No final rule was found on dol.gov as of 2026-10-21. The page describes the DOL test only in general terms.",
+    "State new-hire reporting deadlines: Publication 15 (2026) says every new employee must be reported to a state new-hire registry but gives no deadline. The 20-day figure comes from the SBA's worked example. The federal Office of Child Support Services page (acf.gov) returned HTTP 403, so the federal 20-day rule and shorter state deadlines were found only in secondary and state sources.",
+    "Form 941 (fourth quarter 2026) and Form 940 (2026) due dates: Publication 15 gives January 31 plus the next-business-day rule, so both should be due February 1, 2027, but no IRS document checked prints that date for those forms, and the 2026 Form 940 instructions were not yet available (the 2025 version was used). The page prints February 1, 2027 only for Forms W-2, which the 2026 W-2/W-3 instructions state directly.",
+    "Gusto features come from gusto.com/product/payroll/features, gusto.com/product/payroll and gusto.com/product/hr/hiring-onboarding as loaded on 2026-10-21 (the automated page reader got HTTP 403; the pages loaded with a standard browser request). Features can vary by plan. Gusto's pricing page lists Remote I-9 document verification and E-Verify as paid add-ons, so e-signing an I-9 in onboarding does not by itself cover the employer's Section 2 document review.",
+    "The SBA lists workers' compensation as required through a commercial carrier, self-insurance or a state program; state-by-state exceptions were not checked."
+  ],
+  "youtube_id": "m4med0Q_rz8"
+}

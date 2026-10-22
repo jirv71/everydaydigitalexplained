@@ -1,0 +1,59 @@
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #1c1f24; --ink-2: #4a505a; --line: #e4e1da;
+  --accent: #1f5fae; --accent-soft: #e8f0fb; --warn-bg: #fff6e0; --warn-line: #e5b84a; --ok: #2f7d4f;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #121418; --surface: #1a1d23; --ink: #eceef1; --ink-2: #aab1bc; --line: #2c313a;
+    --accent: #7fb0f0; --accent-soft: #1d2a3d; --warn-bg: #2b2414; --warn-line: #8a6a1f; --ok: #6cc391;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink);
+  font: 18px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+.wrap { max-width: 720px; margin: 0 auto; padding: 0 16px; }
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+header.site { border-bottom: 1px solid var(--line); background: var(--surface); }
+header.site .wrap { display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: center; justify-content: space-between; padding-top: 12px; padding-bottom: 12px; }
+.brand { font-weight: 700; color: var(--ink); text-decoration: none; }
+header nav { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 15px; }
+header nav a { color: var(--ink-2); text-decoration: none; }
+header nav a:hover { color: var(--accent); }
+
+main { padding-top: 24px; padding-bottom: 48px; }
+h1 { font-size: clamp(28px, 5vw, 38px); line-height: 1.15; margin: 8px 0 8px; letter-spacing: -0.01em; }
+h2 { font-size: 23px; line-height: 1.25; margin: 36px 0 10px; }
+h3 { font-size: 19px; margin: 22px 0 6px; }
+p { margin: 0 0 14px; }
+.crumbs { font-size: 14px; color: var(--ink-2); }
+.crumbs a { color: var(--ink-2); }
+.meta { font-size: 14px; color: var(--ok); font-weight: 600; margin-bottom: 18px; }
+.lede { font-size: 20px; color: var(--ink-2); }
+.answer { background: var(--accent-soft); padding: 14px 16px; border-radius: 8px; }
+.warn { background: var(--warn-bg); border: 1px solid var(--warn-line); border-radius: 6px; padding: 4px 16px; margin: 16px 0; }
+.warn ul { padding-left: 18px; }
+ol.steps { padding-left: 24px; }
+ol.steps li { margin-bottom: 12px; padding-left: 4px; }
+ul.sources, ul.related { padding-left: 20px; font-size: 16px; }
+ul.sources li, ul.related li { margin-bottom: 8px; }
+.small { font-size: 14px; color: var(--ink-2); }
+.cta, .email { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 4px 18px 10px; margin: 28px 0; }
+.cta h2, .email h2 { margin-top: 16px; font-size: 20px; }
+.cta ul { padding-left: 20px; }
+.tag { font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--ink-2); border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; white-space: nowrap; }
+.email form { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.email input { flex: 1 1 220px; min-width: 0; font: inherit; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink); }
+.email button { font: inherit; font-weight: 600; padding: 8px 16px; border: 0; border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+.video { display: block; position: relative; margin: 18px 0; border-radius: 8px; overflow: hidden; text-decoration: none; }
+.video img { display: block; width: 100%; height: auto; }
+.video span { position: absolute; left: 12px; bottom: 12px; background: rgba(0,0,0,.75); color: #fff; padding: 6px 12px; border-radius: 6px; font-weight: 600; }
+ul.list { list-style: none; padding: 0; }
+ul.list li { border-bottom: 1px solid var(--line); padding: 14px 0; }
+ul.list li > a { font-weight: 700; font-size: 19px; }
+ul.list li p { margin: 6px 0 0; color: var(--ink-2); font-size: 16px; }
+section h2 a { color: var(--ink); text-decoration: none; }
+footer.site { border-top: 1px solid var(--line); font-size: 14px; color: var(--ink-2); padding: 20px 0 32px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }

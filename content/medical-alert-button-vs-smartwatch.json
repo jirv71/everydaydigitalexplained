@@ -1,0 +1,185 @@
+{
+  "slug": "medical-alert-button-vs-smartwatch",
+  "topic_id": "s-parent-04-alert-button-vs-watch",
+  "lane": "B",
+  "series": "S-PARENT",
+  "title": "Medical Alert Button vs Smartwatch: What Does Each One Do?",
+  "meta_description": "How medical alert systems and Apple Watch or Pixel Watch fall detection work, what to ask about fees and canceling, and whether Medicare pays for them.",
+  "answer": "A medical alert system is a service you pay for: the person wears a button on a necklace or bracelet and presses it to get help. Some smartwatches, like Apple Watch and Google Pixel Watch, can call emergency services, and can call on their own after a hard fall if the wearer doesn't respond. A watch needs a cellular connection or a nearby phone, and neither option catches every fall. The National Institute on Aging (NIA) says Medicare won't pay for emergency medical alert systems.",
+  "steps": [
+    {
+      "name": "Start with what your parent needs",
+      "text": "Think about where help is most likely to be needed: at home, out and about, or in the bathroom. NIA says these systems only help if they're set up correctly and worn, and they can't replace regular check-ins from family and friends."
+    },
+    {
+      "name": "Ask who answers the alert",
+      "text": "For a medical alert service, ask whether a button press reaches a staffed response center, a family member, or 911, and what happens if no one picks up. On a smartwatch, Emergency SOS calls local emergency services directly. Apple says Apple Watch then texts your emergency contacts your location."
+    },
+    {
+      "name": "Ask how it connects",
+      "text": "Apple says Emergency SOS and Fall Detection need a satellite connection, a cellular connection, or Wi-Fi Calling from the watch or a nearby iPhone. Google says the Wi-Fi Pixel Watch needs its paired phone nearby over Bluetooth, while the LTE version needs an active LTE connection. For a button, ask whether it works through a home base unit, a cellular network, or both."
+    },
+    {
+      "name": "Ask about fall detection and its limits",
+      "text": "If the wearer stays still for about a minute after a hard fall, Apple Watch Fall Detection starts a 30-second countdown and then calls emergency services. It's for ages 18 and up, and it turns on by itself at 55 and over if the age was entered. Pixel Watch calls if there's no response after 60 seconds. Both companies say their watches can't detect all falls."
+    },
+    {
+      "name": "Ask about water and batteries",
+      "text": "Ask whether it can be worn in the shower or bath, how often it needs charging, and how you'll know the battery is low. NIA says the batteries need to be charged or replaced as recommended."
+    },
+    {
+      "name": "Get fees and cancellation terms in writing",
+      "text": "Ask about the startup fee, monthly fee, equipment costs, contract length, and how to cancel. The FTC says businesses have to tell you how to cancel before they get your card information. If it's not clear how to cancel, walk away."
+    },
+    {
+      "name": "Check what will pay for it",
+      "text": "NIA says Medicare won't pay for emergency medical alert systems, but Medicaid and other programs may, and some private health or long-term care insurance plans pay part of the cost. Call the plan to ask. The Eldercare Locator at 800-677-1116 can help you find local resources."
+    }
+  ],
+  "details": [
+    {
+      "heading": "How a medical alert system works",
+      "paragraphs": [
+        "NIA describes an emergency medical alert system as an electronic monitor the person wears. If you fall or need help, you push a button on a special necklace or bracelet, and the system alerts emergency help. NIA lists fall monitors and GPS tracking devices as related services for people who live alone.",
+        "These are usually subscriptions. NIA says they typically charge a fee to get started, then a monthly service fee, and costs vary by company, features, and coverage area. Ask exactly what the monthly fee covers before you sign."
+      ]
+    },
+    {
+      "heading": "What Apple Watch and Pixel Watch do",
+      "paragraphs": [
+        "Apple Watch: For Emergency SOS, press and hold the side button until the Emergency Call slider appears. Drag the slider, or keep holding to call after a countdown. Fall Detection works on Apple Watch SE or later, Series 4 or later, and Ultra or later. After a hard fall, the watch taps the wrist, sounds an alarm, and shows an alert. If the wearer stays still for about a minute, a 30-second countdown starts. Then the watch calls emergency services and alerts emergency contacts. Apple says Wrist Detection must be on for the automatic call.",
+        "Google Pixel Watch: After a hard fall, Google says the watch waits about 30 seconds. Then it vibrates, rings loudly, and asks if you want to call emergency services. If there's no answer, it calls after 60 seconds and plays a recorded message. To start Emergency SOS, press the crown 5 times. Google says the watch may not be reliable for emergency communications. Its Safety Signal feature lets some watches without their own cell plan use safety features over LTE, and it requires a Google Health Premium subscription.",
+        "Neither company's support pages describe a staffed monitoring center for these features. Calls go to emergency services, and alerts go to the emergency contacts you set up."
+      ]
+    },
+    {
+      "heading": "Does Medicare cover medical alert devices?",
+      "paragraphs": [
+        "NIA says Medicare will not pay for emergency medical alert systems. Medicare.gov's list of covered durable medical equipment doesn't include them, and neither does its list of what Original Medicare doesn't cover.",
+        "Medicare.gov says Medicare Advantage plans may offer extra benefits that Original Medicare doesn't cover, such as some vision, hearing, and dental services. It doesn't say whether any plan covers medical alert devices, so call the plan and ask. NIA says Medicaid and other programs may provide coverage."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does Original Medicare pay for a medical alert system?",
+      "a": "No. NIA says Medicare will not pay for emergency medical alert systems, and Medicare.gov doesn't list them as covered equipment. NIA says Medicaid and other programs may help, and some private health or long-term care insurance plans pay part of the cost."
+    },
+    {
+      "q": "Can a smartwatch replace a medical alert button?",
+      "a": "It depends on the person. A smartwatch can call emergency services and detect hard falls, but it has to be worn, charged, and connected to cellular service or a nearby phone, and it can't detect all falls. Ask whether your parent will wear and charge it every day, and whether they'd rather have a staffed service answer."
+    },
+    {
+      "q": "Does Apple Watch fall detection work without an iPhone nearby?",
+      "a": "Only if the watch has its own connection. Apple says Fall Detection needs a satellite connection, cellular connection, or Wi-Fi Calling from the Apple Watch or a nearby iPhone. Cellular models can make emergency calls in many places where cellular service is available."
+    },
+    {
+      "q": "What if a watch calls 911 by mistake?",
+      "a": "Don't hang up. Apple and Google both say to stay on the line and tell the responder that you don't need help."
+    },
+    {
+      "q": "Is a call offering a \"free\" medical alert system real?",
+      "a": "Be careful. In 2015, the FTC and Florida's attorney general sued an operation that used robocalls to pitch \"free\" medical alert systems to seniors. People were told they wouldn't be billed until they activated the system, but were charged almost right away. The FTC says unsolicited commercial robocalls are illegal. Hang up and report it at ReportFraud.ftc.gov."
+    }
+  ],
+  "warnings": [
+    "No button or smartwatch catches every emergency. Apple and Google say their watches can't detect all falls, and NIA says alert systems only help when they're set up correctly, worn, and charged.",
+    "Hang up on robocalls saying someone already bought you a free medical alert system. The FTC has sued over this pitch.",
+    "Read the contract before you sign. Ask how to cancel, and whether there are fees for ending early or returning equipment."
+  ],
+  "sources": [
+    {
+      "label": "Services for Older Adults Living at Home (content reviewed October 12, 2023)",
+      "publisher": "National Institute on Aging (NIH)",
+      "url": "https://www.nia.nih.gov/health/caregiving/services-older-adults-living-home",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Preventing Falls at Home: Room by Room (content reviewed September 12, 2022)",
+      "publisher": "National Institute on Aging (NIH)",
+      "url": "https://www.nia.nih.gov/health/falls-and-falls-prevention/preventing-falls-home-room-room",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Falls and Fractures in Older Adults: Causes and Prevention (content reviewed September 12, 2022)",
+      "publisher": "National Institute on Aging (NIH)",
+      "url": "https://www.nia.nih.gov/health/falls-and-falls-prevention/falls-and-fractures-older-adults-causes-and-prevention",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Use Fall Detection with Apple Watch (published May 6, 2026)",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/108896",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Use Emergency SOS on your Apple Watch (published March 16, 2026)",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/108374",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Get help in an emergency with Google Pixel Watch safety features",
+      "publisher": "Google Pixel Watch Help",
+      "url": "https://support.google.com/googlepixelwatch/answer/12663810?hl=en",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Durable medical equipment (DME) coverage",
+      "publisher": "Medicare.gov",
+      "url": "https://www.medicare.gov/coverage/durable-medical-equipment-dme-coverage",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "What's not covered?",
+      "publisher": "Medicare.gov",
+      "url": "https://www.medicare.gov/providers-services/original-medicare/not-covered",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Compare Original Medicare & Medicare Advantage",
+      "publisher": "Medicare.gov",
+      "url": "https://www.medicare.gov/basics/get-started-with-medicare/get-more-coverage/your-coverage-options/compare-original-medicare-medicare-advantage",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Getting In and Out of Free Trials, Auto-Renewals, and Negative Option Subscriptions (September 2024)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "FTC, Florida Attorney General Sue to Stop Deceptive Robocalls from Operation That Pitched Seniors \"Free\" Medical Alert Systems (July 6, 2015)",
+      "publisher": "FTC press release",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2015/07/ftc-florida-attorney-general-sue-stop-deceptive-robocalls-operation-pitched-seniors-free-medical",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "ReportFraud.ftc.gov",
+      "publisher": "FTC",
+      "url": "https://reportfraud.ftc.gov/",
+      "checked": "2026-10-21"
+    }
+  ],
+  "last_verified": "2026-10-21",
+  "valid_until": null,
+  "cta": "kit",
+  "target_questions": [
+    "What is the difference between a medical alert system and a smartwatch?",
+    "Does Medicare cover medical alert systems?",
+    "Does Apple Watch fall detection call 911?",
+    "Does a smartwatch need a phone nearby to call for help?",
+    "What should I ask before buying a medical alert system?"
+  ],
+  "uncertain": [
+    "Medicare.gov has no page that names medical alert devices. Its durable medical equipment list (which says it 'isn't limited to' the items shown) and its 'What's not covered?' list don't mention them, and its coverage search returned nothing for 'medical alert.' The statement that Medicare won't pay comes from NIA's 'Services for Older Adults Living at Home' (content reviewed October 12, 2023).",
+    "NIA's pages don't fully agree on insurance. 'Services for Older Adults Living at Home' says some private health and long-term care insurance plans cover part of the cost, while 'Preventing Falls at Home' says the service is 'usually not covered by insurance.' The page uses the more detailed wording.",
+    "Medicare.gov doesn't say whether any Medicare Advantage plan covers medical alert devices. The page tells readers to ask the plan.",
+    "No FTC consumer advice page specifically about medical alert devices or their subscriptions was found. The page uses the FTC's general subscription guidance (September 2024) and FTC enforcement press releases about 'free' medical alert robocalls (the one cited is from July 6, 2015). The FTC article's line that businesses must tell you how to cancel doesn't name the law behind it.",
+    "No federal source found explains how monitored response centers work (who answers, response times, staffing). The page frames these as questions to ask, and doesn't describe any company's service.",
+    "Samsung Galaxy Watch features weren't covered. The page sticks to Apple and Google features documented on support.apple.com and support.google.com.",
+    "Google's page doesn't give the price of the Google Health Premium subscription needed for Safety Signal, and says Safety Signal isn't available on Pixel Watch 2 or 3 (Wi-Fi) or in all countries.",
+    "Water resistance and battery life aren't stated for any device because they vary by model. The page lists them only as questions to ask."
+  ],
+  "youtube_id": "2x__2SR6KII"
+}

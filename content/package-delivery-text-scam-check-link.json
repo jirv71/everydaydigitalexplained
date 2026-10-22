@@ -1,0 +1,186 @@
+{
+  "slug": "package-delivery-text-scam-check-link",
+  "topic_id": "s-scam-03-check-link-before-tap",
+  "lane": "B",
+  "series": "S-SCAM",
+  "title": "Is a \"Your Package Is Delayed\" Text a Scam? How to Check the Link",
+  "meta_description": "What USPS, UPS and FedEx say about delivery texts, how to check a link without tapping it, how to report it to 7726, and what to do if you already tapped.",
+  "answer": "Treat it as a scam until you check it yourself. USPS says it only texts people who asked for tracking with a tracking number, and those texts won't contain a link, while UPS and FedEx say they don't ask for payment or personal information out of the blue. Don't tap the link: type usps.com, ups.com, or fedex.com into your browser and enter your tracking number there. Then forward the text to 7726 (SPAM) and report it at ReportFraud.ftc.gov.",
+  "steps": [
+    {
+      "name": "Don't tap and don't reply",
+      "text": "Leave the link alone, even if the text says you must act fast. The FTC, the U.S. Postal Inspection Service, and the FCC all say not to click links in unexpected delivery texts or reply to them."
+    },
+    {
+      "name": "Check the text without opening the link",
+      "text": "Ask yourself if you signed up for texts about this package. USPS only texts people who asked for tracking with a tracking number, and it says those texts won't contain a link. Read the web address with your eyes only: FedEx lists misspelled addresses like fedx.com or fed-ex.com, and links ending in .shop, as warning signs."
+    },
+    {
+      "name": "Look up the package yourself",
+      "text": "Type usps.com, ups.com, or fedex.com into your browser and enter the tracking number from your order email, or check the order on the store's website. UPS says a real UPS contact can always give you a tracking number you can check on its website."
+    },
+    {
+      "name": "Forward the text to 7726",
+      "text": "Forward the message to 7726, which spells SPAM. The FTC says this helps your phone company block similar texts. You can also use the report junk or report spam option in your messaging app."
+    },
+    {
+      "name": "Report it, then delete it",
+      "text": "Report the text to the FTC at ReportFraud.ftc.gov. For fake USPS texts, email spam@uspis.gov with the text pasted in and a screenshot showing the sender's number and the date; fake FedEx messages go to abuse@fedex.com, and UPS has an \"Email UPS\" link on its fraud page."
+    },
+    {
+      "name": "If you tapped or typed anything, act now",
+      "text": "Call your bank or card company using the number on the back of your card. USPIS says to do this even if you only opened the link and never pressed submit. See the section below for what to do based on what you entered."
+    }
+  ],
+  "details": [
+    {
+      "heading": "What USPS, UPS and FedEx say about texts",
+      "paragraphs": [
+        "USPS: The U.S. Postal Inspection Service (USPIS) says USPS will not send you texts or emails unless you first asked for tracking with a tracking number, and those texts will not contain a link. USPS uses 5-digit short codes for its texts, and its tracking is free. You can sign up yourself by texting your tracking number to 28777 (2USPS).",
+        "UPS: UPS says it does not ask for payments, personal information, account numbers, IDs, passwords, or copies of invoices in an unsolicited way. It warns that fake UPS texts often say a package is waiting and ask for personal information or a payment first, and that links in these texts may contain malware or lead to fake websites.",
+        "FedEx: FedEx says it never asks for payment or personal information in exchange for releasing a package, and it does not ask for account login or identity details by unsolicited mail, email, or text. One exception to know about: for international packages, FedEx says it may email or text a secure link to pay duties and taxes. You can check those messages and amounts with the FedEx Import Tool instead of using the link."
+      ]
+    },
+    {
+      "heading": "What to do if you already tapped or entered card details",
+      "paragraphs": [
+        "If you only tapped the link: USPIS says to tell your bank or card company if you interacted with the link at all, even if you didn't press submit. If something may have downloaded, the FTC says to update your security software, run a scan, and delete anything it flags.",
+        "If you entered a card number: Call your card company right away, using the number on the back of your card, not a number from the text. Ask them to cancel the card, send a new one, and remove any charges you didn't make. Then watch your statements and update any automatic payments with your new card number.",
+        "If you entered a password, your Social Security number, or other personal details: Change that password, and change it anywhere else you used it, then turn on two-factor authentication. For a Social Security number or other personal information, go to IdentityTheft.gov to get steps for your situation."
+      ]
+    },
+    {
+      "heading": "Why you keep getting these texts",
+      "paragraphs": [
+        "In an April 2025 report, the FTC said fake package delivery problems were the most reported text scam of 2024. The texts usually pretended to be from USPS, and many people said they paid a small \"redelivery fee\" that was really a trick to get their card number or even their Social Security number.",
+        "The FCC also warns about a newer version: texts saying your order is \"stuck in customs\" or won't be delivered until you pay a tariff. The advice is the same. Don't reply, don't click, and check with the store or shipping company directly."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does USPS send text messages about packages?",
+      "a": "Only if you asked for them. USPIS says USPS won't text or email you unless you first requested tracking with a tracking number, and those texts won't contain a link. You can sign up by texting your tracking number to 28777 (2USPS)."
+    },
+    {
+      "q": "Is it safe to open the link just to look?",
+      "a": "No. The FTC, USPIS, and UPS all warn that links in scam texts can lead to fake websites or put malware on your phone. USPIS says to tell your bank if you interacted with the link, even without pressing submit. Check your package on the carrier's website by typing the address yourself."
+    },
+    {
+      "q": "What does forwarding a text to 7726 do?",
+      "a": "7726 spells SPAM on a phone keypad. The FTC says forwarding a scam text there helps your wireless provider block similar messages, and the FCC suggests checking with your provider about its options. It doesn't replace a report to the FTC at ReportFraud.ftc.gov."
+    },
+    {
+      "q": "Do real delivery companies ask for a redelivery fee by text?",
+      "a": "UPS says it doesn't ask for payments in an unsolicited way, and FedEx says it never asks for payment to release a package. USPS only texts people who asked for tracking. The one case FedEx names is duties and taxes on international packages, which you can check with the FedEx Import Tool instead of the link."
+    },
+    {
+      "q": "I clicked the link and entered my card number. What now?",
+      "a": "Call your card company right away using the number on the back of your card. Ask them to cancel the card, send a new one, and remove charges you didn't make. Then report the scam at ReportFraud.ftc.gov, and go to IdentityTheft.gov if you also gave other personal details."
+    }
+  ],
+  "warnings": [
+    "Don't call a phone number from a delivery text or a \"missed delivery\" notice. The FCC says some lead to scam \"operators,\" and some are international numbers that can cost a lot to call.",
+    "A link can look right and still be fake. The safest check is to skip the link and type the carrier's website yourself.",
+    "If a text says you must pay before a package is released, stop. That is the pattern UPS, FedEx, and the FTC describe in delivery scams."
+  ],
+  "sources": [
+    {
+      "label": "Smishing: Package Tracking Text Scams (last updated May 19, 2025)",
+      "publisher": "U.S. Postal Inspection Service",
+      "url": "https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "Text Tracking FAQs",
+      "publisher": "USPS",
+      "url": "https://www.usps.com/text-tracking/welcome.htm",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "Protect Yourself From Fraud and Scams",
+      "publisher": "UPS",
+      "url": "https://www.ups.com/us/en/support/shipping-support/legal-terms-conditions/fight-fraud",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "How to Recognize and Help Prevent Fraud and Scams",
+      "publisher": "FedEx",
+      "url": "https://www.fedex.com/en-us/report-fraud.html",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "How to Recognize and Report Spam Text Messages",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/how-recognize-and-report-spam-text-messages",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "Top text scams of 2024 (April 14, 2025)",
+      "publisher": "FTC Data Spotlight",
+      "url": "https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2025/04/top-text-scams-2024",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "Scammers are delivering phishing messages this holiday season (December 2, 2024)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/consumer-alerts/2024/12/scammers-are-delivering-phishing-messages-holiday-season",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "How to Avoid Package Delivery Scams (updated December 1, 2025)",
+      "publisher": "FCC",
+      "url": "https://www.fcc.gov/how-identify-and-avoid-package-delivery-scams",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "How To Recognize and Avoid Phishing Scams",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "What To Do if You Were Scammed",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/what-do-if-you-were-scammed",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "What To Do if Your Information Was Lost or Stolen, or Part of a Data Breach",
+      "publisher": "FTC (IdentityTheft.gov)",
+      "url": "https://www.identitytheft.gov/Info-Lost-or-Stolen",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "ReportFraud.ftc.gov",
+      "publisher": "FTC",
+      "url": "https://reportfraud.ftc.gov/",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "Internet Crime Complaint Center (IC3)",
+      "publisher": "FBI",
+      "url": "https://www.ic3.gov/",
+      "checked": "2026-10-16"
+    }
+  ],
+  "last_verified": "2026-10-16",
+  "valid_until": null,
+  "cta": "kit",
+  "target_questions": [
+    "Is the USPS package delayed text a scam?",
+    "How do I check if a delivery text link is real without clicking it?",
+    "What happens if I clicked on a fake USPS text link?",
+    "How do I report a scam text to 7726?",
+    "Does UPS or FedEx text you asking for payment?"
+  ],
+  "uncertain": [
+    "UPS's own wording says it does not request payments or personal information 'in an unsolicited manner through email, mail, phone, or fax'; it does not list text messages in that sentence. The same UPS page describes fraudulent texts, and the FCC summarizes both FedEx and UPS as saying they don't seek payment or personal information through unsolicited texts and email. The page says UPS doesn't ask 'in an unsolicited way' and does not claim UPS never texts.",
+    "No primary source confirmed what web address real UPS or FedEx tracking texts link to, so the page does not tell readers that a ups.com or fedex.com link is safe. It tells them to type the site themselves.",
+    "The FTC page on 7726 and spam texts is dated July 2022, and the FTC phishing page is dated September 2022. Both are still live, and the newer FTC Data Spotlight (April 14, 2025) repeats the 7726 and ReportFraud.ftc.gov advice.",
+    "The most recent FTC text-scam ranking found is for 2024 (published April 14, 2025). No 2025 edition turned up, so the page credits the 2024 data and says when it was published.",
+    "UPS's fraud page doesn't show a reporting email address. Its 'Email UPS' button links to a web form (ups.com/upsemail/input?loc=en_US&fraud=true), so the page names the button and gives no address.",
+    "The UPS page blocked automated fetches (Access Denied). Its text was read in a regular browser session on 2026-10-16."
+  ],
+  "youtube_id": "6KlSTGvBYkA"
+}

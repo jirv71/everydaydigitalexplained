@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jirv71.github.io/everydaydigitalexplained/sitemap.xml

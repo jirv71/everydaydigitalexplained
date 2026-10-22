@@ -1,0 +1,139 @@
+{
+  "slug": "2026-irs-mileage-rate-two-rates",
+  "topic_id": "s-biz-06-mileage-log-two-rates",
+  "lane": "A",
+  "series": "S-BIZ",
+  "title": "Which 2026 IRS mileage rate do I use: 72.5 or 76 cents?",
+  "meta_description": "The IRS raised the 2026 business mileage rate to 76 cents a mile for driving on or after July 1, 2026. Before that it was 72.5 cents. How to split a log.",
+  "answer": "You use both, because the IRS did change the 2026 business standard mileage rate mid-year: it is 72.5 cents per mile for business driving from January 1 through June 30, 2026, and 76 cents per mile for driving on or after July 1, 2026. The change came in IRS Announcement 2026-11, which modified Notice 2026-10 because of higher fuel prices. Multiply your business miles from each period by that period's rate and add the two results. The charity rate stays at 14 cents per mile, and the medical and military moving rate rose from 20.5 to 23.5 cents.",
+  "steps": [
+    {
+      "name": "Mark the June 30 cutoff in your log",
+      "text": "Draw a line in your log between trips on June 30, 2026 and trips on July 1, 2026. If you track odometer readings, note the reading at the end of June 30 so the split is easy to show."
+    },
+    {
+      "name": "Total January-June business miles",
+      "text": "Add up business miles for trips from January 1 through June 30, 2026, and multiply by $0.725. Example: 6,000 miles x $0.725 = $4,350."
+    },
+    {
+      "name": "Total July-December business miles",
+      "text": "Add up business miles for trips from July 1 through December 31, 2026, and multiply by $0.76. Example: 5,000 miles x $0.76 = $3,800."
+    },
+    {
+      "name": "Add the two totals, plus parking and tolls",
+      "text": "In the example, $4,350 + $3,800 = $8,150. The IRS lets you deduct business parking fees and tolls on top of the standard mileage rate, but parking at your regular workplace is a commuting cost and isn't deductible."
+    },
+    {
+      "name": "Check that every entry has the IRS basics",
+      "text": "For each business trip, record the date, your business destination, the business purpose, and the miles, and keep your total miles for the year. Write trips down at or near the time; the IRS says a log kept weekly counts as timely."
+    },
+    {
+      "name": "Keep your records",
+      "text": "Keep your log and receipts for at least 3 years from the date you file the return, which is the general rule in IRS Publication 463."
+    }
+  ],
+  "details": [
+    {
+      "heading": "The 2026 rates and when each one applies",
+      "paragraphs": [
+        "From January 1 to June 30, 2026, the IRS standard mileage rates are 72.5 cents per mile for business, 20.5 cents for medical or military moving, and 14 cents for charity. These came from Notice 2026-10, announced in IRS news release IR-2025-128 on December 29, 2025.",
+        "From July 1 to December 31, 2026, the rates are 76 cents per mile for business, 23.5 cents for medical or military moving, and 14 cents for charity. IRS Announcement 2026-11, printed in Internal Revenue Bulletin 2026-29 dated July 13, 2026, made the change and said it \"results from recent increases in the price of fuel.\" The charity rate is set by law at 14 cents.",
+        "The new rates apply to costs paid or incurred on or after July 1, 2026. If you pay workers a mileage allowance, the 76-cent rate applies to allowances paid on or after July 1, 2026 for driving on or after that date. The earlier rates still apply to driving before July 1."
+      ]
+    },
+    {
+      "heading": "What a mileage log needs (IRS Publication 463)",
+      "paragraphs": [
+        "For car expenses, Table 5-1 in Publication 463 lists what to record: the cost of the car and any improvements, the date you started using it for business, the mileage for each business use, and the total miles for the year; the date of each use; your business destination; and the business purpose.",
+        "Your record should be written, and a record kept on a computer counts. The IRS says you can't deduct amounts you approximate or estimate, and a record made at or near the time has more value than one made later. The sample log in Publication 463 (Table 5-2) has columns for date, destination, business purpose, odometer start and stop, and miles for the trip.",
+        "Driving between your home and your main or regular place of work is commuting. The IRS says you can't deduct commuting, no matter how far you drive."
+      ]
+    },
+    {
+      "heading": "Standard mileage rate vs. actual expenses",
+      "paragraphs": [
+        "With the standard mileage rate, you multiply business miles by the rate and add business parking and tolls. For that year you can't also deduct depreciation, lease payments, repairs, gas, oil, insurance or registration fees.",
+        "With actual expenses, you deduct the business share of costs such as depreciation, lease payments, registration, licenses, insurance, repairs, gas, oil, tires, garage rent, tolls and parking. You split costs by miles: in the IRS example, a contractor who drives 12,000 business miles out of 20,000 total can claim 60% of the costs.",
+        "For a car you own, you must choose the standard mileage rate in the first year the car is available for business; in later years you can pick either method. For a leased car, if you use the standard rate you must use it for the whole lease. You can't use the standard rate if you use five or more cars at the same time, or if you claimed depreciation other than straight line, MACRS, a section 179 deduction, or the special depreciation allowance on the car."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Did the IRS really change the mileage rate in the middle of 2026?",
+      "a": "Yes. IRS Announcement 2026-11 raised the business rate from 72.5 to 76 cents per mile for driving on or after July 1, 2026. The IRS Standard mileage rates page lists both periods. Driving before July 1 still uses 72.5 cents."
+    },
+    {
+      "q": "Can I use 76 cents for all of my 2026 business miles?",
+      "a": "No. The 76-cent rate applies only to business driving on or after July 1, 2026. Miles driven from January 1 through June 30 use 72.5 cents, so total each period separately."
+    },
+    {
+      "q": "Can I use the standard rate for part of 2026 and actual expenses for the rest?",
+      "a": "Publication 463 says that if you use the standard mileage rate for a year, you can't deduct your actual car expenses for that year. The rate change doesn't change that rule. If you're thinking about switching methods for a vehicle, a tax pro can check how it affects depreciation."
+    },
+    {
+      "q": "My log doesn't show which trips were before July 1. What now?",
+      "a": "The IRS says you can't deduct amounts you approximate or estimate. If your records are incomplete, Publication 463 says you must support each item with your own detailed statement plus other evidence, such as invoices that show dates. Because this takes judgment, talk to a tax professional before you file."
+    },
+    {
+      "q": "Did the charity and medical mileage rates change too?",
+      "a": "The charity rate stayed at 14 cents per mile all year because the law sets it. The medical and military moving rate went from 20.5 cents to 23.5 cents per mile for driving on or after July 1, 2026."
+    }
+  ],
+  "warnings": [
+    "Commuting from home to your regular workplace isn't deductible, even if you make business calls on the way.",
+    "W-2 employees generally can't deduct unreimbursed work mileage as an itemized deduction; Notice 2026-10 lists narrow exceptions, such as certain educator expenses.",
+    "Publication 463 (2025) still shows the 2025 rate of 70 cents. The 2026 edition and the 2026 Schedule C instructions were not out as of 2026-10-17.",
+    "You can't use the standard mileage rate if you use five or more vehicles for business at the same time."
+  ],
+  "sources": [
+    {
+      "label": "Internal Revenue Bulletin: 2026-29 (Announcement 2026-11, Optional Standard Mileage Rates)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/irb/2026-29_irb",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Standard mileage rates",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/tax-professionals/standard-mileage-rates",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "IRS sets 2026 business standard mileage rate at 72.5 cents per mile, up 2.5 cents (IR-2025-128)",
+      "publisher": "IRS Newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-sets-2026-business-standard-mileage-rate-at-725-cents-per-mile-up-25-cents",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Internal Revenue Bulletin: 2026-04 (Notice 2026-10, 2026 Standard Mileage Rates)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/irb/2026-04_IRB",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Publication 463 (2025), Travel, Gift, and Car Expenses",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/publications/p463",
+      "checked": "2026-10-17"
+    }
+  ],
+  "last_verified": "2026-10-17",
+  "valid_until": "2026-12-31",
+  "cta": "biz",
+  "target_questions": [
+    "What is the IRS mileage rate for 2026?",
+    "Did the IRS change the mileage rate in July 2026?",
+    "What is the IRS mileage rate for July through December 2026?",
+    "How do I calculate mileage when the IRS rate changes mid-year?",
+    "What does the IRS require in a mileage log?"
+  ],
+  "uncertain": [
+    "The premise checks out: the mid-year change is real and the title keeps it. But no IRS newsroom release for the July 1 change was found on irs.gov. The rates and effective date come from Announcement 2026-11 in Internal Revenue Bulletin 2026-29 (dated 2026-07-13) and the IRS 'Standard mileage rates' page (last reviewed 2026-07-28). That page labels the July-December source 'IR-2026-29' but links to IRB 2026-29, so the label looks like a typo. Secondary sources (Thomson Reuters, Journal of Accountancy) also describe the change as an IRB announcement, not a press release.",
+    "The date the IRS first released Announcement 2026-11, before the 2026-07-13 bulletin, was not confirmed on irs.gov.",
+    "How the 2026 Schedule C (line 9 / Part IV) and Form 4562 instructions will ask filers to show the two-rate split is unknown; those 2026 instructions and the 2026 Publication 463 were not published as of 2026-10-17. The 2025 Schedule C instructions say to multiply business miles by 0.70.",
+    "The IRS forms-and-pubs notice 'The standard mileage rates and maximum automobile fair market values have been updated for 2026' (last reviewed 2026-06-28) still shows only 72.5 cents; it predates the change.",
+    "Noting an odometer reading at June 30 is a practical recordkeeping tip, not an IRS requirement.",
+    "Depreciation part of the rate: Notice 2026-10 sets it at 35 cents per mile for 2026, and Announcement 2026-11 says all other provisions of Notice 2026-10 remain in effect, which suggests 35 cents still applies after July 1. No IRS text says so directly, so it is left off the page."
+  ]
+}

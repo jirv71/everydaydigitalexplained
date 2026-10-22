@@ -1,0 +1,143 @@
+{
+  "slug": "voice-memo-to-invoice",
+  "topic_id": "s-biz-03-invoice-from-job-notes",
+  "lane": "A",
+  "series": "S-BIZ",
+  "title": "How do I turn a voice memo into a professional invoice?",
+  "meta_description": "What a clear invoice includes, a sample AI prompt that turns job notes into line items, how to check quantities and rates, payment terms and records.",
+  "answer": "Record a short voice memo right after the job, turn it into a text transcript, and ask an AI assistant to make line items with a description, quantity, unit, rate and amount, using only the numbers you said. Before you send it, check every quantity, rate and total yourself, and add an invoice number, a due date and the ways you accept payment. Save a copy with your business records, because the IRS lists invoices among the documents that show your business income.",
+  "steps": [
+    {
+      "name": "Talk through the job right after you finish",
+      "text": "Say the customer's name, the job address, the date or dates of work, each task you did, the materials you used with quantities, your hours, and any price you and the customer agreed on. Say each number clearly with its unit, like \"three hours\" or \"four boxes of screws.\""
+    },
+    {
+      "name": "Get a text transcript",
+      "text": "Use the transcription feature in your phone or recording app. Read the transcript once and fix names, addresses and any numbers that look wrong."
+    },
+    {
+      "name": "Ask an AI assistant to draft the line items",
+      "text": "Paste the transcript into the assistant with clear rules: use only the numbers you said, make a table with description, quantity, unit, rate and amount, and list anything missing as a question. A sample prompt is below."
+    },
+    {
+      "name": "Check every quantity, rate and total",
+      "text": "Compare each line with your quote or estimate, your price list, your timesheet and your materials receipts. Re-add the amounts with a calculator. Delete anything the assistant added that you didn't say, and watch for numbers that sound alike, such as fifteen and fifty."
+    },
+    {
+      "name": "Add the invoice details and payment terms",
+      "text": "Give the invoice its own number and date. Add your business name and contact information, the customer's name and address, the job address, a due date and the ways you accept payment. Use the payment terms you and the customer agreed to before the work started."
+    },
+    {
+      "name": "Send it, save it and track the payment",
+      "text": "Send the invoice as a PDF, save a copy in a folder for the year, and note it in your sales log. When the customer pays, record the date and amount and match it to your bank deposit."
+    }
+  ],
+  "details": [
+    {
+      "heading": "What a professional invoice should include",
+      "paragraphs": [
+        "A clear invoice usually has: the word \"Invoice\" and a unique invoice number; the invoice date and the date or dates of the work; your business name, address, phone and email; the customer's name and billing address, plus the job address if it's different; line items with a description, quantity, unit, rate and amount; a subtotal, any sales tax your state requires, and the total due; the due date and the ways you accept payment; and a short note, such as warranty details or a thank-you.",
+        "We found no IRS or SBA rule that lists required invoice fields for U.S. businesses, so this list is common practice. The IRS does say a business's records for purchases and expenses should show the payee, the amount paid, proof of payment, the date and a description of the item or service. A clear invoice gives your business customers that information, and your own copy helps show your income."
+      ]
+    },
+    {
+      "heading": "A sample AI prompt you can copy",
+      "paragraphs": [
+        "\"Here is a transcript of my notes from a job. Turn it into invoice line items in a table with these columns: Description, Quantity, Unit, Rate, Amount. Use only the quantities, rates and prices I said. Do not guess, round, or add any item, price, discount or tax I didn't say. If a quantity or rate is missing or unclear, leave it blank and list it under 'Questions for me.' For each line, multiply Quantity by Rate to get Amount, then show the subtotal. Transcript: [paste your transcript here]\"",
+        "Why the rules matter: an AI assistant may fill a gap with a guess, round a number or add a line you never said. Telling it to leave blanks and ask questions makes those gaps easy to spot. Don't paste card numbers, bank account numbers or Social Security numbers into the chat; the line items don't need them."
+      ]
+    },
+    {
+      "heading": "Payment terms, taxes and record-keeping",
+      "paragraphs": [
+        "Agree on payment terms before you start, and put them on the invoice. A specific due date, such as \"Due November 20, 2026,\" leaves less room for confusion than a vague term. If you want a deposit or a late fee, agree on it in writing first and check your state's rules.",
+        "When the money counts as income depends on your accounting method. IRS Publication 583 says under the cash method you report income in the tax year you receive it, and under an accrual method you generally report it in the year you earn it, even if you're paid later. So under the cash method, a December invoice that's paid in January generally counts as income in January.",
+        "Keep a copy of every invoice. The IRS lists invoices among the documents that show your gross receipts, suggests organizing records by year and type, and generally says to keep records for 3 years from when you file, longer in some cases. If a business customer asks for your Form W-9, it's so they have your correct taxpayer ID number for information returns such as Form 1099-NEC, which for payments made in 2026 generally applies at $2,000 or more."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I say in the voice memo?",
+      "a": "Say who the customer is, where and when you worked, each task, each material with its quantity, your hours and any agreed price. Add the unit to every number, like hours, feet or boxes. If the customer approved a change to the job, say that too."
+    },
+    {
+      "q": "Can I let the AI do the math?",
+      "a": "You can, but check it. Multiply each quantity by its rate and re-add the subtotal with a calculator before you send the invoice. You're the one who signs off on the numbers."
+    },
+    {
+      "q": "What payment terms should I put on the invoice?",
+      "a": "Use what you and the customer agreed to before the job. Give a specific due date and list the ways you accept payment. If you plan to charge a deposit or a late fee, agree on it in writing first and check your state's rules."
+    },
+    {
+      "q": "Do I owe tax on an invoice before the customer pays?",
+      "a": "It depends on your accounting method. Under the cash method, you report income in the tax year you receive it. Under an accrual method, you generally report it in the year you earn it, even if payment comes later. A tax professional can help you choose."
+    },
+    {
+      "q": "How long should I keep copies of invoices?",
+      "a": "Keep them as long as you may need them to prove the income on your tax return. The IRS says that's generally 3 years from when you file, and longer in some cases, such as 6 years if you left out income of more than 25% of the gross income on your return."
+    }
+  ],
+  "warnings": [
+    "AI assistants can add items, prices or discounts you never said. Delete anything that isn't in your notes.",
+    "Check numbers that sound alike in a transcript, such as fifteen and fifty or thirteen and thirty.",
+    "Don't paste customer card numbers, bank account numbers or Social Security numbers into an AI chat.",
+    "Charge a late fee or interest only if the customer agreed in advance, and check your state's rules first."
+  ],
+  "sources": [
+    {
+      "label": "Publication 583 (Rev. December 2024), Starting a Business and Keeping Records",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/publications/p583",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "What kind of records should I keep",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "How long should I keep records?",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Manage your finances",
+      "publisher": "U.S. Small Business Administration",
+      "url": "https://www.sba.gov/business-guide/manage-your-business/manage-your-finances",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "About Form W-9, Request for Taxpayer Identification Number and Certification",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/forms-pubs/about-form-w-9",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Publication 15 (2026), (Circular E), Employer's Tax Guide (Information Returns section)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/pub/irs-pdf/p15.pdf",
+      "checked": "2026-10-21"
+    }
+  ],
+  "last_verified": "2026-10-21",
+  "valid_until": null,
+  "cta": "biz",
+  "target_questions": [
+    "How do I make an invoice from a voice memo?",
+    "What should a small business invoice include?",
+    "Can AI create an invoice from my job notes?",
+    "What payment terms should I put on an invoice?",
+    "How long should I keep invoices for taxes?"
+  ],
+  "uncertain": [
+    "No IRS, SBA or DOL page was found that lists required invoice fields for U.S. business-to-business or consumer invoices. The field list on this page is common practice and is labeled that way.",
+    "Payment terms (specific due dates, Net 15 or Net 30, deposits) are common practice; no primary federal source on setting customer payment terms was found. The SBA's Net 30 blog post is about getting credit from suppliers, so it was not used.",
+    "Rules on late fees, interest and sales tax on services or materials are set by states and were not checked. The page tells readers to check their state's rules instead of stating them.",
+    "Whether a given AI tool stores or reuses what you paste depends on the vendor; the page is tool-neutral and makes no claim about any product.",
+    "The $2,000 Form 1099-NEC figure for payments made in 2026 is from Publication 15 (2026). Whether it changes for payments made in 2027 was not checked for this page."
+  ],
+  "youtube_id": "GUWeKYWEyZU"
+}

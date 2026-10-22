@@ -1,0 +1,160 @@
+{
+  "slug": "free-ein-from-irs",
+  "topic_id": "s-biz-05-free-ein-from-irs",
+  "lane": "A",
+  "series": "S-BIZ",
+  "title": "Is an EIN free, and how do I get one from the IRS?",
+  "meta_description": "Yes, an EIN is free from the IRS. See who needs one, what to have ready, the online hours, and the 1-per-day limit. Sites that charge are not the IRS.",
+  "answer": "Yes, an Employer Identification Number (EIN) is free when you apply directly with the IRS; the IRS says you never have to pay a fee for one, so a website that charges you is not the IRS's application. You need an EIN if you have employees, and that includes a sole proprietor hiring a first employee. Most U.S. businesses can apply online at IRS.gov/EIN and get the number right away; the tool is open Monday to Friday 6 a.m. to 1 a.m. (next day), Saturday 6 a.m. to 9 p.m., and Sunday 6 p.m. to midnight, Eastern Time. The IRS issues only 1 EIN per responsible party per day.",
+  "steps": [
+    {
+      "name": "Go directly to IRS.gov/EIN",
+      "text": "Type IRS.gov/EIN into your browser. It opens the IRS's own free application. The IRS warns: \"Beware of websites that charge for an EIN.\""
+    },
+    {
+      "name": "Make sure you can apply online",
+      "text": "You can use the online tool if your business was formed in the U.S. or a U.S. territory, your main place of business is there, you are the responsible party or their authorized representative, and you have the responsible party's Social Security number (SSN) or ITIN. If your main place of business is outside the U.S., apply by phone, fax or mail instead."
+    },
+    {
+      "name": "Gather what you need",
+      "text": "Know your business entity type (for example, sole proprietor, partnership or LLC) and have the SSN or ITIN of the responsible party, the person who owns or controls the business. If you are setting up an LLC or corporation, register it with your state first."
+    },
+    {
+      "name": "Apply during open hours, in one sitting",
+      "text": "The tool runs Monday to Friday 6 a.m. to 1 a.m. (next day), Saturday 6 a.m. to 9 p.m., and Sunday 6 p.m. to midnight, Eastern Time. You can't save and come back later, and the session ends after 15 minutes of inactivity."
+    },
+    {
+      "name": "Print your confirmation letter",
+      "text": "If your application is approved, the IRS issues your EIN online right away. Print the EIN confirmation letter and keep it with your business records."
+    },
+    {
+      "name": "Start using your EIN",
+      "text": "You can use it right away to open a business bank account or apply for licenses. Wait up to 2 weeks before using it to e-file a tax return, pass IRS TIN matching, or make electronic tax deposits."
+    }
+  ],
+  "details": [
+    {
+      "heading": "Who needs an EIN",
+      "paragraphs": [
+        "The IRS says you need an EIN if you have employees, if you must pay employment, excise, or alcohol, tobacco and firearms taxes, or if you withhold tax on non-wage income paid to a non-resident alien. The IRS also lists entities that need one to operate, including partnerships, LLCs, corporations, tax-exempt organizations, estates, most trusts, and retirement plans.",
+        "A sole proprietor with no employees often doesn't need one for federal taxes. The Schedule C instructions say you need an EIN only if you have a qualified retirement plan, must file employment, excise, alcohol, tobacco or firearms returns, or pay gambling winnings. Even if you don't need one, the IRS says you can still request an EIN for banking or state tax purposes."
+      ]
+    },
+    {
+      "heading": "Hiring your first employee as a sole proprietor",
+      "paragraphs": [
+        "Once you hire someone who counts as an employee, the IRS says you must have an EIN. IRS Publication 15, the employer's tax guide, says: \"Don't use an SSN in place of an EIN.\"",
+        "If you already have an EIN, don't apply for another one just because you're hiring. The Form SS-4 instructions say a sole proprietor generally needs only one EIN, and that a new one is required if the sole proprietorship incorporates or enters into a partnership. The IRS says you don't need a new EIN to change your business name, address or responsible party.",
+        "Hiring brings other paperwork too. The IRS says to verify each new hire's identity and right to work (Form I-9), get each employee's name and SSN for Form W-2, and ask for a signed Form W-4 when they start work."
+      ]
+    },
+    {
+      "heading": "Other ways to apply, and the daily limit",
+      "paragraphs": [
+        "If you can't apply online, you can fax Form SS-4 to 855-641-6935. If you include a fax number, the IRS says it will fax your EIN back in about 4 business days. By mail, send Form SS-4 to Internal Revenue Service, Attn: EIN Operation, Cincinnati, OH 45999, and expect about 4 weeks. If your main place of business is outside the U.S., you can call 267-941-1099, Monday to Friday, 6 a.m. to 11 p.m. Eastern Time.",
+        "The IRS limits EINs to 1 per responsible party per day. The Form SS-4 instructions say this limit applies to every method: online, phone, fax and mail."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to pay for an EIN?",
+      "a": "No. The IRS says you never have to pay a fee for an EIN when you apply directly with the IRS. The U.S. Small Business Administration also says not to apply for an EIN on websites that charge a fee."
+    },
+    {
+      "q": "Do I need an EIN if I'm a sole proprietor with no employees?",
+      "a": "Often not. The Schedule C instructions say a sole proprietor needs an EIN only for a qualified retirement plan, for employment, excise, alcohol, tobacco or firearms returns, or as a payer of gambling winnings. You can still get one for banking or state tax purposes. If you're not sure, especially if your business is an LLC, ask a tax professional."
+    },
+    {
+      "q": "I already have an EIN. Do I need a new one to hire my first employee?",
+      "a": "No. The Form SS-4 instructions say not to apply if you already have an EIN and are only hiring employees. You would need a new EIN if your sole proprietorship incorporates or enters into a partnership. Whether a helper is an employee or an independent contractor depends on the facts, so check with a tax pro if you're unsure."
+    },
+    {
+      "q": "A website charged me for an EIN. What should I do?",
+      "a": "The IRS says to contact your bank or credit card company to dispute the charges and to report the site to the Federal Trade Commission. You can always get an EIN for free from the IRS."
+    },
+    {
+      "q": "Can I get more than one EIN in a day?",
+      "a": "No. The IRS issues only 1 EIN per responsible party per day, whether you apply online, by phone, by fax or by mail. Plan ahead if you are setting up more than one business."
+    }
+  ],
+  "warnings": [
+    "Beware of websites that charge for an EIN. The IRS application is free.",
+    "The online application can't be saved and expires after 15 minutes of inactivity.",
+    "Form your LLC or corporation with your state before you apply, or your EIN application may be delayed.",
+    "Nominees can't apply for an EIN. The responsible party, or an authorized representative, must apply."
+  ],
+  "sources": [
+    {
+      "label": "Get an employer identification number",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Employer identification number",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/employer-identification-number",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Instructions for Form SS-4 (12/2025)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/instructions/iss4",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Instructions for Schedule C (Form 1040) (2025)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/instructions/i1040sc",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Businesses with employees",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/businesses-with-employees",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Hiring employees",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/hiring-employees",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Publication 15 (2026), (Circular E), Employer's Tax Guide",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/publications/p15",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Report fake IRS, Treasury or tax-related emails and messages",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/help/report-fraud/report-fake-irs-treasury-or-tax-related-emails-and-messages",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Launch your business: Get federal and state tax ID numbers",
+      "publisher": "U.S. Small Business Administration",
+      "url": "https://www.sba.gov/counseling/launch-your-business/",
+      "checked": "2026-10-17"
+    }
+  ],
+  "last_verified": "2026-10-17",
+  "valid_until": null,
+  "cta": "biz",
+  "target_questions": [
+    "Is it free to get an EIN from the IRS?",
+    "What are the IRS EIN online application hours?",
+    "Do I need an EIN to hire my first employee as a sole proprietor?",
+    "Why did a website charge me for an EIN?",
+    "What do I need to apply for an EIN online?"
+  ],
+  "uncertain": [
+    "Single-member LLCs: the IRS 'Employer identification number' page lists 'Limited liability company (LLC)' among entities that need an EIN to operate, while the 2025 Schedule C instructions (line D) say a single-member LLC owner enters an EIN only for a qualified retirement plan, employment/excise/alcohol-tobacco-firearms returns, or as a payer of gambling winnings. I found no IRS page that reconciles the two for a no-employee single-member LLC, so the page sends that case to a tax pro.",
+    "No IRS newsroom release specifically about paid EIN websites was found. The warnings used come from the IRS 'Get an employer identification number' page ('Beware of websites that charge for an EIN. You never have to pay a fee for an EIN.') and the IRS fraud-reporting page (dispute the charge, report to the FTC).",
+    "'Third-party sites that charge are not the IRS' is an inference from the IRS statement that you never have to pay a fee for an EIN; no IRS page uses those exact words.",
+    "Online hours were taken from the IRS 'Get an EIN' page (page last reviewed 16-Oct-2026; Sunday listed as '6:00 p.m. - 12:00 a.m.' ET, written here as 6 p.m. to midnight). The IRS does not say when hours change, so recheck before each publish."
+  ],
+  "youtube_id": "L_pD0zmY_cE"
+}

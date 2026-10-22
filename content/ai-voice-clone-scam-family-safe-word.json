@@ -1,0 +1,184 @@
+{
+  "slug": "ai-voice-clone-scam-family-safe-word",
+  "topic_id": "s-scam-01-voice-clone-safe-word",
+  "lane": "B",
+  "series": "S-SCAM",
+  "title": "How Do I Protect My Family From AI Voice-Clone Scam Calls?",
+  "meta_description": "Scammers can clone a loved one's voice. Set a family safe word, hang up and call back, turn on iPhone or Pixel call screening, and report the call.",
+  "answer": "Don't trust the voice. The FTC says a scammer can clone a loved one's voice from a short audio clip, so hang up and call the person back at a number you know is theirs. The FCC and the FBI suggest picking a family safe word ahead of time, and the FCC says a caller who can't remember it may be a scammer. Call screening on an iPhone or Pixel can also make an unknown caller say who they are before your phone rings.",
+  "steps": [
+    {
+      "name": "Pick a family safe word now",
+      "text": "Agree on a word or phrase with your family before anything happens. The FCC says to choose it ahead of time and keep it to family members, and the FBI suggests a secret word or phrase to check who's calling. Don't use anything that's posted online. The FCC says scammers mine social media for personal details."
+    },
+    {
+      "name": "Don't trust the voice on the line",
+      "text": "If a grandchild or other relative calls in a panic asking for money, slow down. The FTC says to hang up, or say you'll call right back, even if the voice sounds just like your family member."
+    },
+    {
+      "name": "Call back on a number you already have",
+      "text": "Call the person yourself, using the number saved in your contacts. If you can't reach them, the FTC and FCC say to check with another family member or their friends. Do this even if the caller told you to keep it a secret."
+    },
+    {
+      "name": "Ask for the safe word",
+      "text": "If you stay on the line, ask for the safe word, or ask a question only the real person would know. The FCC says that if the caller can't remember the safe word, it may be a scammer."
+    },
+    {
+      "name": "Turn on call screening",
+      "text": "On iPhone, open Settings, tap Apps, tap Phone, and under Screen Unknown Callers choose Ask Reason for Calling or Silence. On a Pixel, open the Phone app, tap More, then Settings, then Spam and Call Screen (or Call Screen), then Call Screen. Save family numbers in Contacts so their calls ring through."
+    },
+    {
+      "name": "Never pay the way they ask",
+      "text": "The FTC says these callers push ways to pay that are hard to undo: wire transfers, cryptocurrency, gift cards, and payment apps. The FCC adds that some ask to meet you in person to collect money. Each of these is a red flag."
+    },
+    {
+      "name": "Report the call",
+      "text": "Report it to the FTC at ReportFraud.ftc.gov. The FCC says to report a call like this to local law enforcement, and you can file a complaint about illegal robocalls at consumercomplaints.fcc.gov. If you lost money, the FBI asks you to file a report at ic3.gov."
+    }
+  ],
+  "details": [
+    {
+      "heading": "How voice-clone \"family emergency\" scams work",
+      "paragraphs": [
+        "The FTC says a scammer needs only a short audio clip of your family member's voice, which could come from something posted online, and a voice-cloning program. The FCC says the caller often claims to have been in an accident or arrested, and may hand the phone to someone posing as a lawyer or court official who wants money right away.",
+        "The FCC says scammers sometimes \"spoof\" caller ID so the call looks like it's coming from a trusted source. The FTC says they may also tell you to keep it secret. The FCC has ruled that calls using AI-generated voices count as robocalls under the Telephone Consumer Protection Act, so with some exceptions they're illegal unless you agreed to get them."
+      ]
+    },
+    {
+      "heading": "How to choose and use a safe word",
+      "paragraphs": [
+        "Pick something easy for your family to remember but hard for a stranger to guess. Skip pet names, street names, and schools that show up on social media. Share it in person, and make sure grandparents and teens both know it.",
+        "Treat the safe word as one check, not the only one. Even if the caller says it, you can still hang up and call the person back at a number you know before you send anything. If the caller says they forgot the word, or gets upset when you ask, hang up."
+      ]
+    },
+    {
+      "heading": "What call screening does and doesn't do",
+      "paragraphs": [
+        "iPhone: Apple says Ask Reason for Calling answers calls from unknown numbers for you, and your iPhone rings only after the caller gives their name and reason for calling. Silence sends calls from unsaved numbers straight to voicemail. Apple notes that calls aren't screened while you're roaming, and screening turns off for 24 hours after you call emergency services.",
+        "Pixel: Google says Call Screen asks who's calling and why, and shows you a live transcript. On Pixel 7 and newer, you can have it screen spam, possibly faked numbers, and first-time callers automatically. Automatic screening works on Pixel phones in the US, Canada, the UK, Ireland, and Australia. Google says not all spam calls can be detected, and Call Screen won't screen calls automatically while you're roaming.",
+        "Screening helps with unknown numbers, but it can't tell you whether a familiar voice is real. Since the FCC warns that caller ID can be faked, keep using the safe word and the call-back habit even with screening turned on."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can scammers really clone a family member's voice?",
+      "a": "Yes. The FTC says a scammer can use a short audio clip, maybe from something posted online, and a voice-cloning program to sound like your loved one. The FCC says advances in AI let scammers clone the voices of loved ones to make the call more believable."
+    },
+    {
+      "q": "What makes a good family safe word?",
+      "a": "A word or phrase your family picks ahead of time and never posts online. The FCC suggests a safe word that only you and your family members know, and the FBI suggests a secret word or phrase to verify a caller's identity. If the caller can't say it, hang up and call your relative directly."
+    },
+    {
+      "q": "Does iPhone call screening stop scam calls?",
+      "a": "It helps, but it won't catch everything. Apple says Ask Reason for Calling makes callers from unsaved numbers say who they are and why they're calling before your iPhone rings, and Silence sends them to voicemail. Numbers saved in your Contacts always ring through, so keep using the safe word and call-back check."
+    },
+    {
+      "q": "Where do I report a voice-clone scam call?",
+      "a": "The FTC asks you to report it at ReportFraud.ftc.gov and to your state attorney general. The FCC says to report a call like this to local law enforcement. If you lost money, the FBI asks you to file a report at ic3.gov."
+    },
+    {
+      "q": "I already sent money. What now?",
+      "a": "Act fast. The FTC says to contact the company you used to pay, such as your bank, payment app, gift card company, wire service, or crypto exchange. Tell them it was a scam and ask them to reverse the payment. Then report it at ReportFraud.ftc.gov."
+    }
+  ],
+  "warnings": [
+    "Caller ID can be faked. The FCC says scammers can spoof caller ID so a call looks like it's from a trusted source, so a familiar name or number on the screen doesn't prove who's calling.",
+    "Being told to pay by gift card, wire transfer, cryptocurrency, or a payment app, or to meet someone in person with cash, is a red flag. The FTC and FCC both list these.",
+    "If a caller asks you to keep the call secret from the rest of the family, check with family anyway. The FTC says to contact another family member or friend even if you were told to keep it secret."
+  ],
+  "sources": [
+    {
+      "label": "Scammers use AI to enhance their family emergency schemes (March 20, 2023)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Scammers Use Fake Emergencies To Steal Your Money (September 2023)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Fighting back against harmful voice cloning (April 8, 2024)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "'Grandparent' Scams Get More Sophisticated (updated April 24, 2026)",
+      "publisher": "FCC",
+      "url": "https://www.fcc.gov/consumers/scam-alert/grandparent-scams-get-more-sophisticated",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Deep-Fake Audio and Video Links Make Robocalls and Scam Texts Harder to Spot (updated June 8, 2024)",
+      "publisher": "FCC",
+      "url": "https://www.fcc.gov/consumers/guides/deep-fake-audio-and-video-links-make-robocalls-and-scam-texts-harder-spot",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Criminals Use Generative Artificial Intelligence to Facilitate Financial Fraud (PSA, December 3, 2024)",
+      "publisher": "FBI Internet Crime Complaint Center (IC3)",
+      "url": "https://www.ic3.gov/PSA/2024/PSA241203",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Manage unknown callers on iPhone (published September 14, 2026)",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/111106",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Screen and block calls on iPhone (iPhone User Guide)",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/guide/iphone/screen-and-block-calls-iphe4b3f7823/ios",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Screen your calls before you answer them (Call Screen)",
+      "publisher": "Google Phone app Help",
+      "url": "https://support.google.com/phoneapp/answer/9118387",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "ReportFraud.ftc.gov",
+      "publisher": "FTC",
+      "url": "https://reportfraud.ftc.gov/",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Consumer Inquiries and Complaints Center",
+      "publisher": "FCC",
+      "url": "https://consumercomplaints.fcc.gov/",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "What To Do if You Were Scammed (June 2026)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/what-do-if-you-were-scammed",
+      "checked": "2026-10-21"
+    }
+  ],
+  "last_verified": "2026-10-21",
+  "valid_until": null,
+  "cta": "kit",
+  "target_questions": [
+    "How can I tell if a call from my grandson is an AI voice clone?",
+    "What is a family safe word for scam calls?",
+    "How do I turn on call screening on my iPhone?",
+    "How do I screen calls on a Google Pixel?",
+    "Where do I report a voice cloning scam call?"
+  ],
+  "uncertain": [
+    "The FTC's own pages don't use the term \"safe word.\" The FTC suggests hanging up, calling back at a known number, and asking a question only the real person would know. The safe-word advice comes from the FCC's grandparent-scam alert (updated April 24, 2026) and the FBI's IC3 PSA of December 3, 2024 (\"secret word or phrase\").",
+    "Tips on choosing a safe word (skip pet names, share it in person) are the page's own suggestions, based on the FCC's warning that scammers mine social media. No primary source gives rules for choosing one.",
+    "Apple's support article (published September 14, 2026) doesn't say which iOS version added Ask Reason for Calling. It says only that versions earlier than iOS 17 need Live Voicemail turned on to screen calls. Menu names may differ on older iOS versions. The iPhone User Guide page read was the current default version; its selector lists iOS 27 and iOS 26.",
+    "Google's Call Screen menu names differ by phone: Pixel 6 and older use 'Unknown call settings,' and Pixel 7 and newer use protection levels. Google says manual Call Screen also works on 'selected Android devices' in the US and Canada but doesn't list them.",
+    "The point that screening can't confirm a familiar voice or number is the page's own conclusion. It combines Apple's and Google's statements that saved contacts aren't screened with the FCC's warning that caller ID can be spoofed. Neither Apple nor Google says how screening treats a spoofed number that matches a saved contact. Google lists 'possibly faked numbers' as a type of call Pixel 7 and newer can screen.",
+    "The FCC deep-fake page (last updated June 8, 2024) describes the ruling that AI-generated voice calls count as robocalls, but it doesn't give the date of the ruling, so the page leaves the date out.",
+    "The FCC pages returned 403 to automated fetches. They were read in a regular browser session on 2026-10-21."
+  ],
+  "youtube_id": "cXH2Asig4Og"
+}

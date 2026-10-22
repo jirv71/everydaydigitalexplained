@@ -1,0 +1,178 @@
+{
+  "slug": "1099-nec-2000-threshold",
+  "topic_id": "s-biz-07-1099-nec-2000-rule",
+  "lane": "A",
+  "series": "S-BIZ",
+  "title": "Is the 1099-NEC threshold now $2,000 instead of $600?",
+  "meta_description": "For payments made after Dec. 31, 2025, the 1099-NEC threshold is $2,000, not $600. 2026 forms are due Feb. 1, 2027. Plus W-9s and card/app 1099-K rules.",
+  "answer": "Yes, for payments made after December 31, 2025, you generally file Form 1099-NEC for a non-employee when you pay them $2,000 or more during the year for services in your trade or business; the old $600 threshold still applies to payments made in 2025 and earlier. The law (Public Law 119-21, section 70433) adjusts the $2,000 for inflation for calendar years after 2026. Forms 1099-NEC for 2026 payments are due to the worker and to the IRS by February 1, 2027, because January 31, 2027 is a Sunday. Payments you make by credit card, debit card or through a payment app are reported on Form 1099-K by the payment company, not on your 1099-NEC.",
+  "steps": [
+    {
+      "name": "Get a Form W-9 before the first payment",
+      "text": "Ask each helper to fill out Form W-9 so you have their name, tax classification and taxpayer ID number (SSN or EIN). Keep it in your files. The form itself says not to send it to the IRS."
+    },
+    {
+      "name": "Track what you pay each helper",
+      "text": "Add up what you paid each non-employee in 2026 for services, including parts and materials. Keep card and payment-app payments separate, because those are reported on Form 1099-K, not Form 1099-NEC."
+    },
+    {
+      "name": "Compare each total to $2,000",
+      "text": "If what you paid a helper in 2026, not counting card or app payments, is $2,000 or more, you generally must file a 1099-NEC. Payments to most corporations are exempt, but attorneys' fees are reportable even when the law firm is a corporation."
+    },
+    {
+      "name": "File and send copies by February 1, 2027",
+      "text": "Give the worker their copy and file with the IRS by Monday, February 1, 2027. If you file 10 or more information returns in total, you must e-file; the IRS says its IRIS system will be the only intake system for information returns starting with tax year 2026 (the 2027 filing season)."
+    },
+    {
+      "name": "Backup withhold if you don't get a taxpayer ID",
+      "text": "If a payee doesn't give you a taxpayer ID number, you may have to withhold federal income tax at 24% (backup withholding). If you backup withhold from anyone, you must file a 1099-NEC for them no matter how much you paid."
+    }
+  ],
+  "details": [
+    {
+      "heading": "What changed, and for which payments",
+      "paragraphs": [
+        "Section 70433 of Public Law 119-21, signed July 4, 2025, changed the reporting threshold in tax code section 6041(a) from $600 to $2,000. The same threshold now applies under section 6041A, which covers payments for services, and to backup withholding. The change applies to payments made after December 31, 2025, so it starts with money you paid in 2026.",
+        "For calendar years after 2026, the law raises the $2,000 with inflation, rounded to the nearest $100. The IRS's 2026 instructions say the amount may be adjusted beginning in calendar year 2027. As of 2026-10-17, the IRS had not posted a 2027 amount.",
+        "Most Form 1099-MISC dollar lines also moved to $2,000, including rents, prizes and awards, other income, and medical and health care payments. A few did not: gross proceeds paid to an attorney (Form 1099-MISC box 10) still use $600, and the $5,000 rule for direct sales of consumer products for resale is unchanged."
+      ]
+    },
+    {
+      "heading": "The due date: February 1, 2027",
+      "paragraphs": [
+        "The IRS instructions say you must furnish Form 1099-NEC to the recipient and file it with the IRS by January 31. If a due date falls on a Saturday, Sunday or legal holiday, the due date is the next business day.",
+        "January 31, 2027 is a Sunday, so Forms 1099-NEC for 2026 payments are due Monday, February 1, 2027. The IRS's 2026 Form W-2 instructions use the same February 1, 2027 date for W-2s."
+      ]
+    },
+    {
+      "heading": "Card and app payments go on Form 1099-K",
+      "paragraphs": [
+        "The IRS says payments made with a credit card or other payment card, and third-party network transactions such as payment apps, are reported on Form 1099-K by the payment settlement entity and are not reported on Form 1099-MISC or Form 1099-NEC. The Form 1099-K instructions add that the 1099-K dollar threshold is ignored when deciding which of these rules applies.",
+        "For payment apps and online marketplaces, the 2025 law (section 70432) brought back the older Form 1099-K threshold: they must file only if a payee receives more than $20,000 in payments and more than 200 transactions in a year. The law made this retroactive, as if it had been part of the 2021 American Rescue Plan Act, which had lowered the trigger to more than $600. Card payments have no minimum; the IRS says you should get a 1099-K even for $0.01 in card payments.",
+        "Your state may set a lower 1099-K threshold. And whether or not you get a Form 1099-K, the IRS says you must still report your income."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I paid a helper $1,500 in 2026. Do I need to send a 1099-NEC?",
+      "a": "Generally no. For 2026 payments the threshold is $2,000, so a $1,500 total is below it. The exception is backup withholding: if you withheld tax from that helper, you must file a 1099-NEC no matter the amount."
+    },
+    {
+      "q": "Does the $2,000 rule apply to what I paid in 2025?",
+      "a": "No. The new threshold applies only to payments made after December 31, 2025. Payments made in 2025 or earlier used the $600 threshold."
+    },
+    {
+      "q": "I paid my helper with a payment app or a card. Do I file a 1099-NEC?",
+      "a": "The IRS says card payments and payments through third-party payment networks are reported on Form 1099-K by the payment company, not on Form 1099-NEC. Keep records of how you paid each person. If you're not sure whether a certain app transfer counts, ask the app or a tax professional."
+    },
+    {
+      "q": "Will the $2,000 threshold go up?",
+      "a": "It can. The law adjusts it for inflation for calendar years after 2026, rounded to the nearest $100. The IRS had not announced a 2027 amount as of 2026-10-17, so check IRS.gov before you file for 2027 payments."
+    },
+    {
+      "q": "What if my helper is really an employee?",
+      "a": "Then Form 1099-NEC is the wrong form. Wages paid to employees go on Form W-2, and the IRS says an employer must have an EIN. Whether a worker is an employee or an independent contractor depends on the facts, so talk to a tax pro if you're unsure."
+    }
+  ],
+  "warnings": [
+    "Not every 1099 box moved to $2,000: gross proceeds paid to an attorney (Form 1099-MISC box 10) still use $600.",
+    "The current Form W-9 (Rev. March 2024) still mentions payments over $600 in its exemption chart. The 2026 Form 1099 instructions use $2,000.",
+    "If you file 10 or more information returns in total (all types combined), you must file them electronically.",
+    "Your state may have its own, lower Form 1099-K threshold."
+  ],
+  "sources": [
+    {
+      "label": "Instructions for Forms 1099-MISC and 1099-NEC (12/2026)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/instructions/i1099mec",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Publication 1099 (2026), General Instructions for Certain Information Returns",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/pub/irs-pdf/p1099.pdf",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Public Law 119-21 (H.R. 1), sections 70432 and 70433",
+      "publisher": "Congress.gov",
+      "url": "https://www.congress.gov/119/plaws/publ21/PLAW-119publ21.htm",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Instructions for Form 1099-K (12/2026)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/instructions/i1099k",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "IRS issues FAQs on Form 1099-K threshold under the One, Big, Beautiful Bill; dollar limit reverts to $20,000 (IR-2025-107)",
+      "publisher": "IRS Newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-issues-faqs-on-form-1099-k-threshold-under-the-one-big-beautiful-bill-dollar-limit-reverts-to-20000",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "FS-2025-08: IRS revises and updates Form 1099-K frequently asked questions",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/pub/taxpros/fs-2025-08.pdf",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Understanding your Form 1099-K",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/understanding-your-form-1099-k",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "About Form W-9, Request for Taxpayer Identification Number and Certification",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/forms-pubs/about-form-w-9",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Backup withholding",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/backup-withholding",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "2026 General Instructions for Forms W-2 and W-3",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/pub/irs-pdf/iw2w3.pdf",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Internal Revenue Bulletin: 2026-19 (REG-113229-25, proposed rules on the $2,000 threshold)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/irb/2026-19_IRB",
+      "checked": "2026-10-17"
+    },
+    {
+      "label": "Form 1099 NEC & Independent Contractors",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/faqs/small-business-self-employed-other-business/form-1099-nec-independent-contractors/form-1099-nec-independent-contractors",
+      "checked": "2026-10-17"
+    }
+  ],
+  "last_verified": "2026-10-17",
+  "valid_until": "2027-02-01",
+  "cta": "biz",
+  "target_questions": [
+    "What is the 1099-NEC threshold for 2026?",
+    "Is the 1099 reporting threshold $600 or $2,000?",
+    "When are 1099-NEC forms due in 2027?",
+    "Do I send a 1099-NEC if I paid a contractor through a payment app?",
+    "What is the 1099-K threshold now?"
+  ],
+  "uncertain": [
+    "February 1, 2027 due date: the Instructions for Forms 1099-MISC and 1099-NEC (Rev. 12-2026) and Publication 1099 (2026) give a January 31 due date plus the rule that a Saturday, Sunday or legal-holiday due date moves to the next business day, but neither prints 'February 1, 2027'. The date follows from that rule (January 31, 2027 is a Sunday). The only IRS document found that prints 'February 1, 2027' is the 2026 General Instructions for Forms W-2 and W-3 (for W-2s). The IRS online tax calendar (IRS.gov/TaxCalendar) for 2027 was not checked.",
+    "Inflation-indexing wording differs: the statute (new section 6041(h)) says 'any calendar year after 2026', rounded to the nearest $100; the 1099-MISC/NEC instructions say the amount 'may be adjusted for inflation beginning in calendar year 2027'; Publication 1099 (2026) says it 'will be adjusted'; Rev. Proc. 2025-32 says it is 'adjusted for inflation for returns required to be filed in calendar year 2027'. The proposed regulations (REG-113229-25, IRB 2026-19) say $2,000 applies to payments made in 2026 and the inflation-adjusted amount to payments after December 31, 2026. No 2027 amount was posted on irs.gov as of 2026-10-17; a secondary source (Bloomberg Tax) projects $2,100, which is not used on the page.",
+    "IRS materials describe the change as applying 'for tax years beginning after 2025', while the statute applies it to 'payments made after December 31, 2025'. The page uses the statute's payment-date wording.",
+    "REG-113229-25 is a proposed regulation; no final regulation was found.",
+    "Whether a personal or 'friends and family' transfer through a payment app used to pay a worker counts as a third-party network transaction (Form 1099-K) rather than a 1099-NEC payment was not addressed in the IRS sources checked. The page sends that question to the app or a tax pro.",
+    "That a business files no 1099-NEC for card or app payments even when the payee falls under the $20,000 / 200-transaction 1099-K threshold rests on the Form 1099-K instructions' statement that the de minimis threshold is disregarded when deciding between section 6050W and sections 6041/6041A. No IRS FAQ was found that states this example directly.",
+    "Form W-9 (Rev. March 2024) still lists 'Payments over $600' in its exempt-payee chart; the 'About Form W-9' page (last reviewed 2026-06-27) lists no newer revision."
+  ],
+  "youtube_id": "vuCCVIDzX0I"
+}

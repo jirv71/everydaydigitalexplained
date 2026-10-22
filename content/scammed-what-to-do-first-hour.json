@@ -1,0 +1,155 @@
+{
+  "slug": "scammed-what-to-do-first-hour",
+  "topic_id": "s-scam-05-first-hour-report-recover",
+  "lane": "B",
+  "series": "S-SCAM",
+  "title": "I Got Scammed. What Should I Do in the First Hour?",
+  "meta_description": "Paid a scammer? Contact the company you paid right away, by payment type. Then report it at ReportFraud.ftc.gov and IC3, and skip \"recovery\" offers.",
+  "answer": "Contact the company you used to pay right away, tell them it was a scam, and ask them to reverse the payment. That might be your card company, bank, payment app, wire company, gift card company, or crypto exchange. If you shared your Social Security number, go to IdentityTheft.gov, and if you shared a password, change it and turn on two-factor authentication. Then report the scam to the FTC at ReportFraud.ftc.gov and, for internet crime, to the FBI at ic3.gov, and ignore anyone who offers to get your money back for a fee.",
+  "steps": [
+    {
+      "name": "Paid by card? Call your card company",
+      "text": "For a credit or debit card, call the number on the back of the card, or log in to your account online or in the app. Report the payment and ask for your money back. The FTC says federal law protects you from unauthorized use of your credit and debit cards."
+    },
+    {
+      "name": "Bank transfer, Zelle, or payment app? Report it now",
+      "text": "If you paid with Zelle or a bank transfer, report it to your bank or credit union immediately. If you used an app like Venmo, Cash App, or PayPal, report it to the app. Ask them to reverse the payment and refund your money."
+    },
+    {
+      "name": "Wire transfer or gift card? Call the company",
+      "text": "For a wire company like Western Union or MoneyGram, report it, say a scammer tricked you into sending money, and ask for a refund. For a gift card, call the number on the back of the card, say a scammer got the card number and PIN, and ask for a refund. Keep the card and the receipt."
+    },
+    {
+      "name": "Crypto or cash? Act right away",
+      "text": "For cryptocurrency, contact the exchange or crypto ATM operator, say it was a fraudulent transaction, and ask them to reverse it. If you mailed cash, the FTC says to call the U.S. Postal Inspection Service at 1-877-876-2455 immediately. For a fee, a package that hasn't been delivered may be intercepted."
+    },
+    {
+      "name": "Shared personal info or a password? Lock it down",
+      "text": "If a scammer used your Social Security number, report it at IdentityTheft.gov to get a recovery plan. If you're not sure, follow the steps at IdentityTheft.gov/databreach. If you gave out a password, change it, change it anywhere else you used it, and turn on two-factor authentication. If you let a scammer into your computer, update your security software, run a scan, and change your passwords."
+    },
+    {
+      "name": "Report the scam",
+      "text": "Report it to the FTC at ReportFraud.ftc.gov. For internet or online crime, also file with the FBI at ic3.gov. Write down dates, amounts, and how you paid first. The FBI asks for transaction details such as account numbers and crypto addresses."
+    },
+    {
+      "name": "Hang up on \"recovery\" offers",
+      "text": "Scammers go after people who just lost money. The FTC says anyone who asks for an upfront fee to get your money back is a scammer. IC3 says it will never contact you directly for information or money."
+    }
+  ],
+  "details": [
+    {
+      "heading": "What to say when you call",
+      "paragraphs": [
+        "Say you were scammed and ask the company to stop or reverse the payment and refund your money. The FTC says that if you paid a scammer, your money might be gone already, but it's always worth asking the company you used to send it.",
+        "Crypto is harder. The FTC says cryptocurrency payments don't have the same legal protections as credit and debit cards, so it can be hard to get that money back. It adds that some states have passed laws that might help.",
+        "Keep records: the gift card and receipt, screenshots of messages, and notes on who you talked to and when. The FTC says you may need the gift card and receipt to follow up on your claim."
+      ]
+    },
+    {
+      "heading": "Where to report: FTC, IC3, and IdentityTheft.gov",
+      "paragraphs": [
+        "ReportFraud.ftc.gov is the FTC's site for reporting fraud, scams, and bad business practices. The FTC says it shares reports with over 2,000 law enforcers. It can't resolve your individual report, but it uses reports to build cases against scammers, spot trends, and educate the public.",
+        "IC3, the Internet Crime Complaint Center, is run by the FBI. It calls itself the central hub for reporting cyber-enabled crime and says to file even if you're not sure your complaint qualifies. IC3 says it can't respond to every report, but reports help the FBI investigate and, in some cases, freeze stolen funds. If someone is in immediate danger, call 911.",
+        "IdentityTheft.gov is the federal government's one-stop resource for identity theft victims. It asks what happened and gives you a recovery plan, with checklists and sample letters."
+      ]
+    },
+    {
+      "heading": "How recovery scams work",
+      "paragraphs": [
+        "The FTC says scammers buy, sell, and trade lists of people who've already been scammed. Then they contact you saying they can get your money back. They may claim to be from a government agency, a law firm, or a consumer group, and ask for a \"processing fee,\" \"retainer fee,\" or \"tax\" first, or for your bank account number.",
+        "The FTC says government agencies and legitimate groups will never ask for money to help you get a refund. IC3 says it doesn't work with law firms or crypto services to recover lost funds. If someone offers to recover your money for a fee, hang up and report it at ReportFraud.ftc.gov."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I get my money back after a scam?",
+      "a": "Sometimes. The FTC says your money might be gone already, but it's always worth asking the company you used to pay. Credit and debit cards have federal protections against unauthorized use. Crypto payments don't have the same protections, so that money can be hard to get back."
+    },
+    {
+      "q": "Should I report a scam to the FTC or to IC3?",
+      "a": "You can report to both. The FTC takes reports of fraud and scams at ReportFraud.ftc.gov and shares them with law enforcement. IC3, run by the FBI, is the main place to report internet and other cyber-enabled crime, and it says to file even if you aren't sure your case qualifies."
+    },
+    {
+      "q": "When do I need IdentityTheft.gov?",
+      "a": "When you shared personal information. The FTC says to report it at IdentityTheft.gov if a scammer used your Social Security number. If you're not sure your information was used, IdentityTheft.gov/databreach has steps for Social Security numbers, card numbers, bank accounts, passwords, and more."
+    },
+    {
+      "q": "Someone says they can get my scam money back for a fee. Is that real?",
+      "a": "No. The FTC says anyone who asks for an upfront fee to recover your money is a scammer, and paying will only cost you more. IC3 says it never contacts people directly for information or money and doesn't work with law firms or crypto services to recover funds."
+    },
+    {
+      "q": "A caller from the \"FTC\" told me to move my money to keep it safe. Is that real?",
+      "a": "No. The FTC says it will never threaten you, say you must transfer your money to \"protect it,\" or tell you to withdraw cash or buy gold and give it to someone. That's a scam. Report it at ReportFraud.ftc.gov."
+    }
+  ],
+  "warnings": [
+    "Don't send more money to \"unlock,\" \"release,\" or \"recover\" anything. The FTC says paying upfront for help getting a refund means you'll lose more money.",
+    "Use the number on the back of your card or your bank's official app or website, not a phone number or link the scammer gave you.",
+    "The FTC and IC3 won't contact you asking for money. If someone claims to be from either one and asks you to pay, it's a scam."
+  ],
+  "sources": [
+    {
+      "label": "What To Do if You Were Scammed (June 2026)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/what-do-if-you-were-scammed",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "ReportFraud.ftc.gov",
+      "publisher": "FTC",
+      "url": "https://reportfraud.ftc.gov/",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "IdentityTheft.gov",
+      "publisher": "FTC",
+      "url": "https://www.identitytheft.gov/",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "What To Do if Your Information Was Lost or Stolen, or Part of a Data Breach",
+      "publisher": "FTC (IdentityTheft.gov)",
+      "url": "https://www.identitytheft.gov/databreach",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Internet Crime Complaint Center (IC3) home page",
+      "publisher": "FBI",
+      "url": "https://www.ic3.gov/",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Criminals Use Generative Artificial Intelligence to Facilitate Financial Fraud (PSA, December 3, 2024)",
+      "publisher": "FBI Internet Crime Complaint Center (IC3)",
+      "url": "https://www.ic3.gov/PSA/2024/PSA241203",
+      "checked": "2026-10-21"
+    },
+    {
+      "label": "Refund and Recovery Scams (December 2023)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/refund-and-recovery-scams",
+      "checked": "2026-10-21"
+    }
+  ],
+  "last_verified": "2026-10-21",
+  "valid_until": null,
+  "cta": "kit",
+  "target_questions": [
+    "What should I do right after I get scammed?",
+    "How do I get my money back from a scammer?",
+    "How do I report a scam to the FTC?",
+    "Should I report a scam to IC3 or the FTC?",
+    "Are scam money recovery services legit?"
+  ],
+  "uncertain": [
+    "\"First hour\" is the video's framing. The FTC says to act \"immediately\" and \"as soon as possible\" but doesn't give a time window.",
+    "The current FTC page (dated June 2026) tells crypto victims to report to the FTC at ReportFraud.ftc.gov and no longer lists IC3 there. The advice to also file with IC3 comes from IC3's own site, which calls itself the central hub for reporting cyber-enabled crime.",
+    "The FBI's list of details to include in an IC3 report (identifying details, transaction details such as account numbers and crypto addresses, how contact started) comes from its December 3, 2024 PSA on AI-enabled fraud, not from a general IC3 filing guide.",
+    "The FTC page says to ask banks and payment apps to reverse a payment, but it doesn't say when they must refund a payment you were tricked into making. The page makes no promise about refunds.",
+    "The FTC links to separate pages with dispute details for credit and debit cards and contact lists for payment apps, wire companies, and gift card companies. Those details aren't repeated here.",
+    "The figure \"over 2,000 law enforcers\" comes from the ReportFraud.ftc.gov home page, which gives no date for it.",
+    "Keeping screenshots and notes is the page's own suggestion. The FTC specifically mentions keeping the gift card and receipt."
+  ],
+  "youtube_id": "zpkNHvq6Fz4"
+}

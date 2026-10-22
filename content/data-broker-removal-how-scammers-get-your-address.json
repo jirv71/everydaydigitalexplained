@@ -1,0 +1,162 @@
+{
+  "slug": "data-broker-removal-how-scammers-get-your-address",
+  "topic_id": "s-scam-04-data-broker-removal",
+  "lane": "B",
+  "series": "S-SCAM",
+  "title": "How Do Scammers Get My Address? Data Brokers and How to Opt Out",
+  "meta_description": "People-search sites sell your address to anyone who pays. Here are 3 ways out: California's free DROP platform, free manual opt-outs, or a paid service.",
+  "answer": "One common source is data brokers, including people-search sites, which the FTC says build reports from public records, social media, and other data brokers and sell them to anyone willing to pay. There are three ways out. If you live in California, the state's free DROP platform sends one deletion request to over 600 registered data brokers, and brokers have had to process those requests since August 1, 2026. Anyone can also opt out site by site for free, or pay a removal service to do the opt-outs for them.",
+  "steps": [
+    {
+      "name": "Search for yourself",
+      "text": "Search for your name, phone number, or address on people-search sites, as the FTC suggests. Write down which sites show your details."
+    },
+    {
+      "name": "If you live in California, use DROP",
+      "text": "Go to consumer.drop.privacy.ca.gov, confirm you're a California resident, and create a profile. You need your name, date of birth, and ZIP code to submit, and you can add emails, phone numbers, and other details. One free request goes to every registered data broker in DROP."
+    },
+    {
+      "name": "Help a parent in California sign up",
+      "text": "A family member can submit a DROP request for an elderly relative, with that person's permission. You must verify that relative's California residency as part of the request."
+    },
+    {
+      "name": "Opt out site by site",
+      "text": "On each people-search site that lists you, find the opt-out link and follow the steps. If you can't find one, the FTC suggests searching the site's name with phrases like \"opt out\" or \"remove my information.\""
+    },
+    {
+      "name": "Check again from time to time",
+      "text": "Your information can come back, especially when public records change. The FTC says to check people-search sites periodically and send a new opt-out if new information shows up. In DROP, check your status, since updates can take up to 90 days."
+    },
+    {
+      "name": "Decide whether to pay for help",
+      "text": "Paid removal services will send opt-outs for you. Before you sign up, the FTC suggests asking how many sites they cover, whether they'll give you a report of where they opted you out, and how often they rescan for information that reappears."
+    }
+  ],
+  "details": [
+    {
+      "heading": "What data brokers and people-search sites are",
+      "paragraphs": [
+        "California's privacy agency defines a data broker as a business that gathers and sells information about you that you didn't give it directly. The FTC says people-search sites are one type of data broker. They may buy data from other brokers, collect it from public social media profiles, and pull it from government records such as property, voter registration, court, and birth, marriage, divorce, and death records.",
+        "The FTC says these reports can show your age, other names you've used, your current and past addresses, your marital status, your work history, and the names and addresses of family members. The sites sell the reports to anyone willing to pay, which is how a stranger can know where you or your parents live."
+      ]
+    },
+    {
+      "heading": "California's DROP: who can use it and the key dates",
+      "paragraphs": [
+        "DROP (the Delete Request and Opt-out Platform) is a free service from the California Privacy Protection Agency, which also calls itself CalPrivacy. It was created by the Delete Act (Senate Bill 362, signed in 2023). It is only for California residents, including people who live in California but are out of the state for a short time. CalPrivacy says it will never charge you to use DROP.",
+        "Key dates: DROP opened to Californians on January 1, 2026. Data brokers had to start processing requests on August 1, 2026, and must check DROP at least once every 45 days. CalPrivacy says all brokers in DROP should finish their first round of processing by November 2026, and status updates can take up to 90 days to show.",
+        "When a broker responds, your DROP status will show one of these: Deleted, Exempted (the broker keeps data that the law exempts), Opted-out (no exact match was found, so the broker keeps the data but can no longer sell or share it), Record not found, or Pending. CalPrivacy's Data Broker Registry on cppa.ca.gov lists the businesses that have registered as data brokers."
+      ]
+    },
+    {
+      "heading": "What opting out can't remove",
+      "paragraphs": [
+        "The FTC says opting out of people-search sites doesn't delete your information from public records, so someone could still find records about you on a government website. Your information may also still show up in reports about your relatives or neighbors.",
+        "CalPrivacy says DROP doesn't cover information you gave directly to a business, though it can cover that data if a data broker later buys it. Brokers may also keep public records such as vehicle, real estate, or voting records, and data covered by other laws, such as health records under HIPAA, credit report information under the Fair Credit Reporting Act, and certain financial information under the Gramm-Leach-Bliley Act."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is California's DROP free, and who can use it?",
+      "a": "Yes, it's free, and CalPrivacy says it will never charge you. It is only for California residents, and you confirm your residency through the state's California Identity Gateway. A family member can submit a request for an elderly relative who lives in California, with that person's permission."
+    },
+    {
+      "q": "I don't live in California. How do I get off people-search sites?",
+      "a": "DROP is only for California residents, so you'll need to opt out site by site. The FTC says to search for yourself, find each site's opt-out link, follow the steps, and check back now and then. You can also pay a service to do this for you."
+    },
+    {
+      "q": "How long does DROP take to work?",
+      "a": "Data brokers had to start processing DROP requests on August 1, 2026, and must check DROP at least every 45 days. CalPrivacy says it can take up to 90 days for your status to update, and all brokers should finish their first round by November 2026."
+    },
+    {
+      "q": "Will opting out remove my address from the internet completely?",
+      "a": "No. Opting out doesn't remove public records kept by the government, and your information can come back when those records change. You may also still appear in reports about relatives. That's why the FTC says to check again from time to time."
+    },
+    {
+      "q": "Should I pay a data removal service?",
+      "a": "That's up to you. The FTC says you can opt out yourself for free or pay a service to do it. If you pay, ask how many sites it covers, whether you'll get a report of where it opted you out, and how often it checks for information that reappears."
+    }
+  ],
+  "warnings": [
+    "Only use the official DROP site at consumer.drop.privacy.ca.gov. CalPrivacy says DROP is free and it will never charge you to use it.",
+    "Only submit a DROP request for someone else with their permission. CalPrivacy requires you to verify that person's California residency.",
+    "Removing your information can cut down on how widely it's sold, but it won't stop every scam. Keep treating unexpected calls, texts, and letters with care."
+  ],
+  "sources": [
+    {
+      "label": "Delete Request and Opt-out Platform (DROP)",
+      "publisher": "California Privacy Protection Agency (CalPrivacy)",
+      "url": "https://privacy.ca.gov/drop/",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "How DROP works",
+      "publisher": "California Privacy Protection Agency (CalPrivacy)",
+      "url": "https://privacy.ca.gov/drop/how-drop-works/",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "Help with DROP",
+      "publisher": "California Privacy Protection Agency (CalPrivacy)",
+      "url": "https://privacy.ca.gov/drop/help-with-drop/",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "Personal information and data brokers",
+      "publisher": "California Privacy Protection Agency (CalPrivacy)",
+      "url": "https://privacy.ca.gov/drop/personal-information-and-data-brokers/",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "About DROP and the Delete Act",
+      "publisher": "California Privacy Protection Agency (CalPrivacy)",
+      "url": "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "DROP: Delete your data (consumer sign-up)",
+      "publisher": "California Privacy Protection Agency (CalPrivacy)",
+      "url": "https://consumer.drop.privacy.ca.gov/",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "California Privacy Protection Agency home page (DROP 'officially live' banner)",
+      "publisher": "California Privacy Protection Agency (CPPA)",
+      "url": "https://cppa.ca.gov/",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "Data Broker Registry",
+      "publisher": "California Privacy Protection Agency (CPPA)",
+      "url": "https://cppa.ca.gov/data_broker_registry/",
+      "checked": "2026-10-16"
+    },
+    {
+      "label": "What To Know About People Search Sites That Sell Your Information (July 2022)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information",
+      "checked": "2026-10-16"
+    }
+  ],
+  "last_verified": "2026-10-16",
+  "valid_until": "2026-12-01",
+  "cta": "kit",
+  "target_questions": [
+    "How did a scammer get my address?",
+    "How do I remove my information from people search sites for free?",
+    "What is the California DROP data broker deletion platform?",
+    "Who can use California's Delete Request and Opt-out Platform?",
+    "Are data removal services worth it?"
+  ],
+  "uncertain": [
+    "No primary source says how any particular scammer got someone's address. The FTC says people-search reports (including current and past addresses) are sold to anyone willing to pay, and CalPrivacy says limiting data sales can reduce unwanted texts, calls, and emails. The page presents data brokers as one common source, not the only one.",
+    "CalPrivacy pages give different broker counts: 'over 600' on the current DROP overview and About pages, '581 registered data brokers' in a June 2, 2026 CalPrivacy release, and 'more than 500' in a December 10, 2025 post. The page uses 'over 600' from the current DROP page.",
+    "valid_until is 2026-12-01 because CalPrivacy says all brokers should finish their first processing cycle by November 2026. No CalPrivacy report on how well brokers have complied since August 1, 2026 was found, so recheck the page after that milestone.",
+    "The consumer DROP pages are on privacy.ca.gov under the 'CalPrivacy' name. cppa.ca.gov (the California Privacy Protection Agency site) shows a banner saying DROP is 'officially live' and links there, but gives no dates itself.",
+    "CalPrivacy's pages don't say whether people-search sites in particular must register as data brokers or take part in DROP. The page describes DROP as covering registered data brokers only.",
+    "The Data Broker Registry page loaded, but its broker list didn't render for the automated reader (it showed '0 data brokers registered', last updated 7/29/2026). The page only says the registry lists registered brokers.",
+    "Whether other states have a similar one-request deletion platform was not researched. The page makes no claim about other states."
+  ],
+  "youtube_id": "dYkEjmoULTM"
+}

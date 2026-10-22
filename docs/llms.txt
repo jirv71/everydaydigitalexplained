@@ -1,0 +1,26 @@
+# Everyday Digital Explained
+
+> Plain-English steps for protecting your parents and running a small business. Every fact checked against the official source.
+
+## Small-business money admin
+
+- [What does payroll software do when you hire your first employee?](https://jirv71.github.io/everydaydigitalexplained/first-employee-payroll-what-software-does/): Employee or contractor, the IRS steps (EIN, W-4, I-9, FICA, FUTA, deposits, W-2s due Feb. 1, 2027) and what payroll software can't do for you.
+- [How do I turn a shoebox of receipts into a clean spreadsheet?](https://jirv71.github.io/everydaydigitalexplained/receipts-to-spreadsheet-small-business/): What the IRS says to keep and for how long, how to sort receipts, using AI or a phone scan, and the bank-statement check you can't skip.
+- [How do I turn a voice memo into a professional invoice?](https://jirv71.github.io/everydaydigitalexplained/voice-memo-to-invoice/): What a clear invoice includes, a sample AI prompt that turns job notes into line items, how to check quantities and rates, payment terms and records.
+- [Is the 1099-NEC threshold now $2,000 instead of $600?](https://jirv71.github.io/everydaydigitalexplained/1099-nec-2000-threshold/): For payments made after Dec. 31, 2025, the 1099-NEC threshold is $2,000, not $600. 2026 forms are due Feb. 1, 2027. Plus W-9s and card/app 1099-K rules.
+- [Which 2026 IRS mileage rate do I use: 72.5 or 76 cents?](https://jirv71.github.io/everydaydigitalexplained/2026-irs-mileage-rate-two-rates/): The IRS raised the 2026 business mileage rate to 76 cents a mile for driving on or after July 1, 2026. Before that it was 72.5 cents. How to split a log.
+- [Is an EIN free, and how do I get one from the IRS?](https://jirv71.github.io/everydaydigitalexplained/free-ein-from-irs/): Yes, an EIN is free from the IRS. See who needs one, what to have ready, the online hours, and the 1-per-day limit. Sites that charge are not the IRS.
+
+## Protect your parents
+
+- [How Do I Protect My Family From AI Voice-Clone Scam Calls?](https://jirv71.github.io/everydaydigitalexplained/ai-voice-clone-scam-family-safe-word/): Scammers can clone a loved one's voice. Set a family safe word, hang up and call back, turn on iPhone or Pixel call screening, and report the call.
+- [How Do I Freeze My Credit at All Three Bureaus for Free?](https://jirv71.github.io/everydaydigitalexplained/freeze-credit-all-three-bureaus-free/): A credit freeze is free by federal law. Official freeze pages and phone numbers for Equifax, Experian and TransUnion, and how fast a freeze must be lifted.
+- [How Do You Use the Official Medicare Plan Finder for 2027 Plans?](https://jirv71.github.io/everydaydigitalexplained/how-to-use-medicare-plan-finder/): A neutral walkthrough of Medicare Plan Finder: logging in or not, adding drugs and pharmacies, cost estimates, star ratings, filters and free help.
+- [Medical Alert Button vs Smartwatch: What Does Each One Do?](https://jirv71.github.io/everydaydigitalexplained/medical-alert-button-vs-smartwatch/): How medical alert systems and Apple Watch or Pixel Watch fall detection work, what to ask about fees and canceling, and whether Medicare pays for them.
+- [I Got Scammed. What Should I Do in the First Hour?](https://jirv71.github.io/everydaydigitalexplained/scammed-what-to-do-first-hour/): Paid a scammer? Contact the company you paid right away, by payment type. Then report it at ReportFraud.ftc.gov and IC3, and skip "recovery" offers.
+- [How Do I Check if My Password Has Been Leaked? (Free Tools)](https://jirv71.github.io/everydaydigitalexplained/check-if-password-leaked-free/): Check your email and passwords for leaks free with Have I Been Pwned, Google Password Checkup, or iPhone Passwords, then fix leaks and turn on passkeys.
+- [How Do Scammers Get My Address? Data Brokers and How to Opt Out](https://jirv71.github.io/everydaydigitalexplained/data-broker-removal-how-scammers-get-your-address/): People-search sites sell your address to anyone who pays. Here are 3 ways out: California's free DROP platform, free manual opt-outs, or a paid service.
+- [What Can You Change During Medicare Open Enrollment (Oct 15–Dec 7)?](https://jirv71.github.io/everydaydigitalexplained/medicare-open-enrollment-what-you-can-change/): Medicare Open Enrollment runs Oct 15–Dec 7, 2026. What you can change for 2027, what you can't, the Medigap catch, and where to get free help.
+- [Did Medicare Really Call You? How to Spot 3 Medicare Scams](https://jirv71.github.io/everydaydigitalexplained/medicare-scam-red-flags-open-enrollment/): Medicare won't call out of the blue for your Medicare Number. How to spot the fake new-card call, free braces, and free genetic tests, and where to report.
+- [Is a "Your Package Is Delayed" Text a Scam? How to Check the Link](https://jirv71.github.io/everydaydigitalexplained/package-delivery-text-scam-check-link/): What USPS, UPS and FedEx say about delivery texts, how to check a link without tapping it, how to report it to 7726, and what to do if you already tapped.
+- [How Do I Stop Pre-Approved Credit Card Offers and Junk Calls?](https://jirv71.github.io/everydaydigitalexplained/stop-prescreened-credit-offers-do-not-call/): Opt out of prescreened credit offers at OptOutPrescreen.com or 1-888-5-OPT-OUT, then add your phones to DoNotCall.gov. What each one does and doesn't stop.
