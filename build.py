@@ -236,6 +236,8 @@ def build():
     shutil.rmtree(DIST, ignore_errors=True)
     DIST.mkdir()
     shutil.copy(ROOT / "styles.css", DIST / "styles.css")
+    if (ROOT / "pins").is_dir():  # Pinterest images from pinterest.py, served at <site_url>/pins/<slug>.png
+        shutil.copytree(ROOT / "pins", DIST / "pins")
     (DIST / ".nojekyll").write_text("")  # GitHub Pages: serve files as-is
     if cfg.get("indexnow_key"):  # proves site ownership to Bing/IndexNow (see README)
         (DIST / f'{cfg["indexnow_key"]}.txt').write_text(cfg["indexnow_key"])
