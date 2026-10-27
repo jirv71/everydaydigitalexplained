@@ -1,0 +1,150 @@
+{
+  "slug": "1099-k-20000-200-transactions-rule",
+  "topic_id": "s-biz-08-1099-k-20000-rule",
+  "lane": "A",
+  "series": "S-BIZ",
+  "title": "Is the 1099-K threshold for payment apps $20,000 and 200 sales?",
+  "meta_description": "Payment apps must send a 1099-K only over $20,000 and 200 transactions. Card payments have no minimum, and you report income even without a form.",
+  "answer": "Yes. Payment apps and online marketplaces (third party settlement organizations) must file Form 1099-K only when your payments for goods or services top $20,000 and you have more than 200 transactions in the year. The 2025 law (Public Law 119-21, section 70432) brought back this older rule as if it had been part of the 2021 American Rescue Plan Act. An app can still send you a 1099-K for less, and your state may set a lower threshold. Card payments you take directly have no minimum. Either way, the IRS says you must report your income, with or without a form.",
+  "steps": [
+    {
+      "name": "Check both numbers, not just one",
+      "text": "A payment app or marketplace has to send a 1099-K only if your payments for goods or services are more than $20,000 and you have more than 200 transactions in the year. Both must be true. You may still get a form below that line."
+    },
+    {
+      "name": "Know that card payments are different",
+      "text": "If customers pay you directly by credit or debit card, your card processor sends a 1099-K no matter how much or how many. The IRS says even $0.01 in card payments counts."
+    },
+    {
+      "name": "Mark personal payments as personal",
+      "text": "Money from friends or family as a gift, or to pay you back for a shared dinner or rent, isn't taxable income and shouldn't go on a 1099-K. The IRS suggests marking these as non-business in the app when you can."
+    },
+    {
+      "name": "Sort your sales: business or personal items",
+      "text": "Money from goods or services you sell is income you report. For your own used items, like clothing or furniture, the profit is taxable if you sell for more than you paid. A loss on a personal item can't be deducted."
+    },
+    {
+      "name": "Report your income, form or no form",
+      "text": "The IRS says all income is taxable unless the law says it isn't, even if you never get a 1099-K. Keep records of what you sold, what you paid for it, and fees, shipping and refunds."
+    },
+    {
+      "name": "Fix a wrong form with the company that sent it",
+      "text": "If a 1099-K includes gifts, repayments or isn't yours, ask the issuer (the 'Filer' in the top left of the form) for a corrected form. The IRS says it can't correct a 1099-K for you, and you shouldn't wait to file."
+    }
+  ],
+  "details": [
+    {
+      "heading": "The $20,000 and 200 transactions rule",
+      "paragraphs": [
+        "Section 70432 of Public Law 119-21 rewrote tax code section 6050W(e). It says a third party settlement organization must report a payee's third party network transactions only if the amount is more than $20,000 and the number of transactions is more than 200. The law made this take effect as if it had been part of section 9674 of the American Rescue Plan Act of 2021, the provision that had lowered the trigger.",
+        "The IRS describes this in news release IR-2025-107 (October 23, 2025) as a retroactive return to the threshold in place before the American Rescue Plan Act. The Instructions for Form 1099-K (Rev. 12/2026) use the same two tests for each calendar year.",
+        "The IRS page 'Understanding your Form 1099-K' adds that you may receive a Form 1099-K even when your payments or transactions are below the threshold."
+      ]
+    },
+    {
+      "heading": "Card payments have no minimum",
+      "paragraphs": [
+        "The $20,000 and 200 rule is only for third party network transactions, such as payment apps and online marketplaces. The Form 1099-K instructions give no de minimis threshold for payment card transactions.",
+        "The IRS Form 1099-K FAQs say there is no threshold amount for card payments and give the example that even $0.01 in card payments would call for a form."
+      ]
+    },
+    {
+      "heading": "Gifts, repayments and selling your own stuff",
+      "paragraphs": [
+        "The IRS says money you get as a gift or as repayment for a personal expense should not be reported on a Form 1099-K, and these payments aren't taxable income. It suggests marking them as non-business in payment apps when possible.",
+        "If you sell a personal item, such as clothing or furniture, for more than you paid, the profit is taxable and goes on Form 8949 and Schedule D (Form 1040). If you sell it at a loss, the loss can't be deducted. If a loss sale shows up on a 1099-K, the IRS 'What to do with Form 1099-K' page says you can report it at the top of Schedule 1 (Form 1040) or on Form 8949 so you don't pay tax on it.",
+        "The IRS also notes that a payment showing on a Form 1099-K doesn't mean it's taxable. Your records should back up the income and any deductible expenses you report."
+      ]
+    },
+    {
+      "heading": "Income counts even without a form",
+      "paragraphs": [
+        "The IRS Form 1099-K FAQs say all income, no matter the amount, is taxable unless the tax law says it isn't, and that this is true even if you don't receive a Form 1099-K. That includes payments in cash, property, goods or digital assets.",
+        "The same FAQs say your state may have a lower reporting threshold for these companies, which could mean you get a Form 1099-K even below the federal line. The IRS page does not list which states."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I sold $5,000 of stuff on a payment app. Will I get a 1099-K?",
+      "a": "Under the federal rule, the app has to send one only if you go over $20,000 and over 200 transactions. You might still get one for less, or your state may have a lower threshold. Either way, business income is still reportable."
+    },
+    {
+      "q": "Is it $20,000 OR 200 transactions?",
+      "a": "It's both. The law says the amount must be more than $20,000 and the number of transactions must be more than 200 before a payment app or marketplace is required to report."
+    },
+    {
+      "q": "Does the $20,000 rule apply to card payments?",
+      "a": "No. If customers pay you directly by credit or debit card, there is no minimum. The IRS says you should get a 1099-K even for $0.01 in card payments."
+    },
+    {
+      "q": "My roommate paid me back for rent through an app. Is that income?",
+      "a": "No. The IRS says repayments for personal expenses and gifts from friends or family aren't taxable income and shouldn't be on a 1099-K. If one shows up on a form, ask the company that sent it for a corrected form."
+    },
+    {
+      "q": "I sold my old couch for less than I paid. Do I owe tax?",
+      "a": "No tax is due on a personal item sold at a loss, but you also can't deduct the loss. If the sale appears on a 1099-K, the IRS shows ways to report it so it nets to zero; a tax pro can help if you're unsure."
+    }
+  ],
+  "warnings": [
+    "Not getting a 1099-K doesn't mean the money is tax-free. The IRS says you must still report your income.",
+    "Your state may have its own, lower Form 1099-K threshold.",
+    "Card payments you take directly have no minimum; the $20,000 and 200 rule is only for payment apps and marketplaces.",
+    "A loss on selling a personal item can't be deducted, even though it can show up on a 1099-K."
+  ],
+  "sources": [
+    {
+      "label": "Understanding your Form 1099-K",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/understanding-your-form-1099-k",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "What to do with Form 1099-K",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/businesses/what-to-do-with-form-1099-k",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Form 1099-K FAQs: General information",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/newsroom/form-1099-k-faqs-general-information",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Instructions for Form 1099-K (12/2026)",
+      "publisher": "IRS",
+      "url": "https://www.irs.gov/instructions/i1099k",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "IRS issues FAQs on Form 1099-K threshold under the One, Big, Beautiful Bill; dollar limit reverts to $20,000 (IR-2025-107)",
+      "publisher": "IRS Newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-issues-faqs-on-form-1099-k-threshold-under-the-one-big-beautiful-bill-dollar-limit-reverts-to-20000",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Public Law 119-21 (H.R. 1), section 70432",
+      "publisher": "Congress.gov",
+      "url": "https://www.congress.gov/119/plaws/publ21/PLAW-119publ21.htm",
+      "checked": "2026-10-27"
+    }
+  ],
+  "last_verified": "2026-10-27",
+  "cta": "biz",
+  "target_questions": [
+    "What is the 1099-K threshold for payment apps?",
+    "Is the 1099-K threshold $600 or $20,000?",
+    "Do I get a 1099-K for credit card payments under $20,000?",
+    "Do I have to report income if I didn't get a 1099-K?",
+    "Do I pay taxes on personal items sold at a loss on a payment app?"
+  ],
+  "uncertain": [
+    "No state is named on the page. Vermont's Department of Taxes page (tax.vermont.gov/node/4929, dated 2017-12-19) says Vermont requires TPSO reporting at $600 per person from tax year 2017, but a secondary source (Credit Karma) lists Vermont at $2,000 for 2026, and no current Vermont statute text was checked. Massachusetts DOR pages (mass.gov) describing a $600 threshold returned HTTP 403 and could not be read; search snippets only.",
+    "IRS Fact Sheet FS-2025-08 (irs.gov/pub/taxpros/fs-2025-08.pdf) could not be read as text; its content is not relied on. The $0.01 card example comes from the IRS 'Form 1099-K FAQs: General information' page (last reviewed 2026-04-03).",
+    "None of the IRS pages checked name the specific calendar years the $20,000 / 200 test applies to; the statute's 'as if included in' ARPA section 9674 language is the basis for saying it reaches back to the 2021 change. No tax-year line is on the page, so valid_until is not set.",
+    "Marking friends-and-family payments as non-business depends on the app offering that option; the IRS wording is 'when possible'.",
+    "Whether a 1099-K below the federal threshold is sent because of state rules versus an app's own policy was not addressed in the IRS sources."
+  ],
+  "youtube_id": "jAaUlccm5rM"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "google-inactive-account-manager-set-up",
+  "topic_id": "s-afterlife-02-google-inactive-account",
+  "lane": "B",
+  "series": "S-AFTERLIFE",
+  "title": "How Do I Set Up Google's Inactive Account Manager?",
+  "meta_description": "Google may delete a personal account unused for 2 years. Inactive Account Manager lets you pick up to 10 people to get your data, or have the account deleted.",
+  "answer": "Google says it may delete a personal Google Account, and its data, if it hasn't been used across Google for at least two years. Inactive Account Manager lets you decide what happens first. At myaccount.google.com/inactive, you choose how long Google waits, pick up to 10 people to be told or to get the data you choose, and, according to Google, you can also have the account deleted. Your contacts hear nothing while you set it up; they're only contacted after your account has been inactive for the time you picked.",
+  "steps": [
+    {
+      "name": "Sign in and check your account",
+      "text": "Sign in to the Google Account you want to plan for. Google says signing in shows the account is active. Using Gmail, Drive, Search, or YouTube, downloading an app from Google Play, or using Sign in with Google on another site also counts as activity."
+    },
+    {
+      "name": "Open Inactive Account Manager",
+      "text": "Go to myaccount.google.com/inactive. Google's help page says this is where you set up your plan, change it later, or turn it off."
+    },
+    {
+      "name": "Choose how long Google waits",
+      "text": "Pick how long your account must be inactive before your plan starts. Google's 2023 announcement says you can choose a period of up to 18 months. Read the choices shown on the screen when you set it up."
+    },
+    {
+      "name": "Add up to 10 trusted contacts",
+      "text": "Google says you can choose up to 10 people. You need a phone number for each one. Google uses that number to check that only that person can download your data, even if someone else sees the email."
+    },
+    {
+      "name": "Choose what each person gets",
+      "text": "You can just have Google tell someone your account is inactive, or also share data with them. You can share all your data or only some types, and different people can get different data. Google says some information can't be shared. You can also write the subject and message of the email they'll get."
+    },
+    {
+      "name": "Decide about an auto-reply and deleting the account",
+      "text": "Google's 2023 announcement says the plan can also turn on a Gmail auto-reply and can delete the account entirely. If you choose deletion, remember that Google says you can't reuse that Gmail address afterward."
+    },
+    {
+      "name": "Tell your contacts and review the plan",
+      "text": "Google doesn't tell your contacts anything during setup, so let them know yourself to expect an email from Google one day. Check your plan when phone numbers or people in your life change, and update it on the same page."
+    }
+  ],
+  "details": [
+    {
+      "heading": "What counts as \"inactive\"",
+      "paragraphs": [
+        "Google's Inactive Google Account Policy says an account is inactive if it hasn't been used across Google for at least two years. It applies to personal accounts, not accounts set up through work, school, or another organization. Google may also delete data in a single product after two years of no use in that product, under that product's own rules.",
+        "Google says activity includes reading or sending email, using Google Drive, watching a YouTube video, sharing a photo, downloading an app, using Google Search, and using Sign in with Google for another app or site. Activity is tracked by account, not by device. Google says it emails the account and any recovery email address before it deletes an account.",
+        "Some accounts stay active on their own, Google says, such as one with a current subscription, a gift card balance, a published app with active subscriptions, a supervised child account through Family Link, or past purchases of digital items like books or movies."
+      ]
+    },
+    {
+      "heading": "What your trusted contacts will see",
+      "paragraphs": [
+        "Nothing at first. Google says contacts aren't notified during setup. After your account has been inactive for the time you chose, each contact gets an email with the subject and message you wrote, plus a note from Google saying you asked it to send the message.",
+        "If you chose to share data, the email also lists the types of data shared and has a link to download it. The contact has to confirm the phone number you entered for them before downloading.",
+        "If you'd rather keep a copy of your own data now, Google Takeout at takeout.google.com lets you download it yourself. Google says the export can take from a few minutes to a few days, depending on how much data you have."
+      ]
+    },
+    {
+      "heading": "If someone has already passed away",
+      "paragraphs": [
+        "If a loved one died without setting up a plan, Google has a page called \"Submit a request regarding a deceased user's account\" in its Google Account Help. It offers three choices: close the account, request funds from the account, or get data from the account.",
+        "Google says it can work with immediate family members and representatives to close an account where appropriate, and may share content in certain circumstances after a review. Google says it can't give out passwords or other login details, and that once an account is closed, it can't later hand over the account's contents."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will Google really delete my account after two years?",
+      "a": "It may. Google's policy says it reserves the right to delete a personal Google Account and its data if the account hasn't been used across Google for at least two years. Signing in, or using a Google service like Gmail, Search, or YouTube, counts as activity."
+    },
+    {
+      "q": "Will my trusted contacts know I picked them?",
+      "a": "Not from Google. Google says it doesn't notify contacts while you set up the plan. They only get an email after your account has been inactive for the time you chose. You may want to tell them yourself."
+    },
+    {
+      "q": "How many people can I add?",
+      "a": "Up to 10. Google says you can choose different data for different people, or just have Google send someone a message without sharing data."
+    },
+    {
+      "q": "Can my contacts get my password?",
+      "a": "No. Inactive Account Manager shares the data you choose through a download link, not your login. Google also says it can't give out passwords or login details for a deceased user's account."
+    },
+    {
+      "q": "Can I change or turn off my plan later?",
+      "a": "Yes. Google says you can change your trusted contacts, change what they get, or turn the plan off at myaccount.google.com/inactive."
+    }
+  ],
+  "warnings": [
+    "Type myaccount.google.com/inactive yourself. Don't use links in unexpected emails or texts that say your account is about to be deleted.",
+    "Double-check each trusted contact's phone number. Google uses it to confirm the person before they can download your data.",
+    "Choosing deletion is permanent. Google says a deleted Gmail address can't be reused, and once a deceased user's account is closed, Google can't later share its contents."
+  ],
+  "sources": [
+    {
+      "label": "About Inactive Account Manager",
+      "publisher": "Google Account Help",
+      "url": "https://support.google.com/accounts/answer/3036546",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Inactive Google Account Policy",
+      "publisher": "Google Account Help",
+      "url": "https://support.google.com/accounts/answer/12418290",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Updating our inactive account policies (May 16, 2023)",
+      "publisher": "Google (The Keyword blog)",
+      "url": "https://blog.google/technology/safety-security/updating-our-inactive-account-policies/",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Submit a request regarding a deceased user's account",
+      "publisher": "Google Account Help",
+      "url": "https://support.google.com/accounts/troubleshooter/6357590",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "How to download your Google data",
+      "publisher": "Google Account Help",
+      "url": "https://support.google.com/accounts/answer/3024190",
+      "checked": "2026-10-27"
+    }
+  ],
+  "last_verified": "2026-10-27",
+  "valid_until": null,
+  "cta": "none",
+  "target_questions": [
+    "Does Google delete inactive accounts after two years?",
+    "How do I set up Google Inactive Account Manager?",
+    "How many trusted contacts can I add to Inactive Account Manager?",
+    "What happens to my Google account when I die?",
+    "How do I get access to a deceased person's Google account?"
+  ],
+  "uncertain": [
+    "The exact wait-period menu (often reported as 3, 6, 12, or 18 months) isn't on Google's current help page. Only the May 16, 2023 blog post's 'up to 18 months' is used. Google's 2021 Security Blog post may list the options, but its body didn't load when fetched.",
+    "Reports say Google sends you a reminder about a month before the plan acts, and that contacts have 3 months to download. Neither appears on the current help page, so both are left off.",
+    "The delete option and the Gmail auto-reply come from Google's May 16, 2023 blog post. The deceased-user page also says Inactive Account Manager lets you say whether you want your account deleted. The current 'About Inactive Account Manager' page doesn't describe either option, and the live setup screens (which need a signed-in account) weren't checked.",
+    "The video mentions Photos, Drive, and Mail as data you can share. The help page says you can share all or specific data types but doesn't list them in the text that was read, so the page doesn't name products.",
+    "Google's blog said in 2023 it had no plans at that time to delete accounts with YouTube videos. That may have changed, so it's left off.",
+    "The deceased-user page doesn't say which documents (for example, a death certificate) are needed. Those come up inside the request forms, which weren't opened.",
+    "Google's policy page lists December 1, 2023 as the earliest deletion date. That date has passed, so it isn't on the page and valid_until is null."
+  ],
+  "youtube_id": "iI9b0Bl7IZg"
+}

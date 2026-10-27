@@ -1,0 +1,143 @@
+{
+  "slug": "apple-legacy-contact-how-to-set-up",
+  "topic_id": "s-afterlife-01-apple-legacy-contact",
+  "lane": "B",
+  "series": "S-AFTERLIFE",
+  "title": "How Do I Set Up a Legacy Contact for My Apple Account?",
+  "meta_description": "Add an Apple Legacy Contact in a few taps, share the access key, and learn what your family can and can't get to after you die, per Apple Support.",
+  "answer": "A Legacy Contact is someone you choose to get into certain data in your Apple Account after you die, such as photos, messages, notes, files, and device backups. On an iPhone or iPad with iOS or iPadOS 15.2 or later, go to Settings, tap your name, then Sign-In & Security, Legacy Contact, and Add Legacy Contact. Apple makes an access key for that person. They will need the key and your death certificate to ask for access. They can't get your purchased movies, music, books, or subscriptions, or your iCloud Keychain passwords and payment details.",
+  "steps": [
+    {
+      "name": "Check your device",
+      "text": "Apple says you need an iPhone or iPad with iOS or iPadOS 15.2 or later, or a Mac with macOS Monterey 12.1 or later. You must be signed in to your Apple Account, and you may need two-factor authentication turned on."
+    },
+    {
+      "name": "Open Legacy Contact settings",
+      "text": "On iPhone or iPad, go to Settings, tap your name, then tap Sign-In & Security, then Legacy Contact. On a Mac, choose Apple menu, then System Settings, click your name, then Sign-In & Security, then Legacy Contact. You may be asked for Face ID, Touch ID, or your passcode or password."
+    },
+    {
+      "name": "Add someone you trust",
+      "text": "Tap Add Legacy Contact. Pick a Family Sharing member, or choose someone from your contacts by phone number or email. Apple says they don't need an Apple Account or an Apple device, but they must be over 13 to ask for access (the age varies by country or region). Apple emails you a confirmation."
+    },
+    {
+      "name": "Share the access key",
+      "text": "Apple creates an access key for your Legacy Contact and calls it extremely important. If you both use iMessage, you can send it by iMessage, and their device saves a copy if they accept. Or choose Print a Copy to print it or send it as a PDF or screenshot."
+    },
+    {
+      "name": "Keep a copy with your estate papers",
+      "text": "Apple suggests saving the access key with your estate planning documents. You can see it again anytime: go back to Legacy Contact, select the person, and tap View Access Key."
+    },
+    {
+      "name": "Tell them what to do later",
+      "text": "After a death, the Legacy Contact asks for access on Apple's Digital Legacy website (digital-legacy.apple.com), or on their iPhone or iPad under Settings, their name, Sign-In & Security, Legacy Contact, then Request Access. They'll need the access key and the death certificate."
+    },
+    {
+      "name": "Review your list now and then",
+      "text": "You can add more than one Legacy Contact. To remove one, select the person in Legacy Contact settings and tap Remove Contact. Apple says they won't be told, and their access key stops working."
+    }
+  ],
+  "details": [
+    {
+      "heading": "What your Legacy Contact can and can't get",
+      "paragraphs": [
+        "Apple says a Legacy Contact may be able to get photos, messages, notes, files, and device backups. They can sign in at iCloud.com and download account data at privacy.apple.com. If you had Advanced Data Protection turned on, they also need to sign in to an Apple device with the legacy account. Apple says some end-to-end encrypted data, such as health data and voice memos, may need the access key.",
+        "They can't get movies, music, books, or subscriptions you bought with your Apple Account. They also can't get your iCloud Keychain, which holds saved passwords, passkeys, and payment information."
+      ]
+    },
+    {
+      "heading": "What happens after Apple approves a request",
+      "paragraphs": [
+        "Apple gives the Legacy Contact a special Legacy Contact Apple Account to get to the data. Your original Apple Account stops working.",
+        "Apple removes Activation Lock from devices that used your original Apple Account. Those devices must be erased and restored before someone else can use them. Apple says a passcode can't be removed from a device without erasing it.",
+        "Access doesn't last forever. Apple says the Legacy Contact account can be used for three years from when Apple approves the request, and then the account is permanently deleted. Your contact should download anything they want to keep before then."
+      ]
+    },
+    {
+      "heading": "If there's no Legacy Contact",
+      "paragraphs": [
+        "Without an access key, family may need a court order. Apple says that in the U.S., Israel, and other places, you can ask for access to a deceased person's Apple Account with a court order that names you as the rightful heir. Only one person can make that request. Some countries accept other documents instead. This takes more time and paperwork than using an access key."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does my Legacy Contact need an iPhone?",
+      "a": "No. Apple says your Legacy Contact doesn't need an Apple Account or an Apple device. If they don't use iMessage, print a copy of the access key or send it as a PDF instead."
+    },
+    {
+      "q": "Can my Legacy Contact get into my account while I'm alive?",
+      "a": "Apple describes Legacy Contact as access after your death. To ask for access, the contact needs both your access key and your death certificate, and Apple runs checks before it approves the request."
+    },
+    {
+      "q": "Will my Legacy Contact get my saved passwords?",
+      "a": "No. Apple says a Legacy Contact can't get your iCloud Keychain, which includes saved passwords, passkeys, and payment information. If your family will need some passwords, plan for that separately."
+    },
+    {
+      "q": "Can I have more than one Legacy Contact?",
+      "a": "Yes. Apple says you can add more than one. Keep in mind that any one of them can make decisions about your account data on their own, including deleting it permanently."
+    },
+    {
+      "q": "What if my family loses the access key?",
+      "a": "While you're alive, you can view the key again in Legacy Contact settings and tap View Access Key. After a death, Apple says the key may be in your Apple Account settings on the contact's device, printed out, or in your estate papers. Without it, family may need a court order or other legal documents."
+    }
+  ],
+  "warnings": [
+    "Anyone you add can delete your account data on their own. Choose people you trust.",
+    "Your Legacy Contact can't get your saved passwords or bought music and movies. Don't count on Legacy Contact for those.",
+    "The Legacy Contact account is deleted three years after Apple approves the request, so tell your family to download what they want to keep.",
+    "Start a request only on Apple's own Digital Legacy website or in Settings. Don't use links from unexpected emails or texts that claim to be about a loved one's Apple Account."
+  ],
+  "sources": [
+    {
+      "label": "How to add a Legacy Contact for your Apple Account",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/102631",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Request access to an Apple Account as a Legacy Contact (August 10, 2026)",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/102678",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Remove Legacy Contacts",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/126507",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Request access to a deceased family member's Apple Account",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/102431",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Legacy Contact security (Apple Platform Security)",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/guide/security/legacy-contact-security-secebf027fb8/web",
+      "checked": "2026-10-27"
+    }
+  ],
+  "last_verified": "2026-10-27",
+  "valid_until": null,
+  "cta": "none",
+  "target_questions": [
+    "How do I add a Legacy Contact on my iPhone?",
+    "What can an Apple Legacy Contact access?",
+    "Does a Legacy Contact need an Apple device?",
+    "What is an Apple Legacy Contact access key?",
+    "How long does a Legacy Contact have access to an Apple Account?"
+  ],
+  "uncertain": [
+    "The three-year access limit comes only from Apple's 'Request access to an Apple Account as a Legacy Contact' page (102678). The main setup page (102631, US and Malaysia versions) and the Platform Security guide don't mention any time limit.",
+    "The video's 'two minutes' timing (hook variants B and C) wasn't checked against any source and isn't claimed on the page.",
+    "Apple says you need two-factor authentication 'if needed' without explaining when. The page says 'may need' and doesn't go further.",
+    "The exact iPhone menu labels (Sign-In & Security, Add Legacy Contact) were read from Apple's support text, not from a device. Labels on older iOS versions (15.2 through 16) may differ, for example 'Password & Security', and weren't checked.",
+    "Apple's minimum age for a Legacy Contact is 'over the age of 13' and varies by country or region. Specific ages for other countries weren't checked.",
+    "Apple's Platform Security guide says the access key is saved automatically on supported devices, while the setup page says the iMessage copy is saved only if the contact accepts. The page uses the setup page's wording.",
+    "Japan uses a family certificate instead of a death certificate, and other countries' document requirements vary. The page doesn't list them.",
+    "Whether a Legacy Contact can get Apple Pay or Apple Card account details, Find My locations, or family photos shared from Shared Albums wasn't checked and isn't claimed."
+  ],
+  "youtube_id": "MPzNJe6_Fcs"
+}

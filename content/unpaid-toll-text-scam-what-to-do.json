@@ -1,0 +1,139 @@
+{
+  "slug": "unpaid-toll-text-scam-what-to-do",
+  "topic_id": "s-scam-08-unpaid-toll-text",
+  "lane": "B",
+  "series": "S-SCAM",
+  "title": "Got an \"Unpaid Toll\" Text? Is It a Scam, and What Should I Do?",
+  "meta_description": "The FTC says unpaid toll texts are probably a scam. Don't tap the link. Check with your toll agency yourself, forward the text to 7726, and report it.",
+  "answer": "It's probably a scam. The FTC says scammers are texting people across the country, pretending to be toll agencies, with a small amount due and a link to a page that asks for your card or bank details. Don't tap the link and don't reply. Check your account by typing your toll agency's real website into your browser or calling a number you already know. Then report the text as junk or forward it to 7726 (SPAM), report it at ReportFraud.ftc.gov or ic3.gov, and delete it.",
+  "steps": [
+    {
+      "name": "Don't tap and don't reply",
+      "text": "Leave the link alone, even if the text warns about a late fee. The FTC says scammers want you to act fast before you think. Don't reply either. New York says some of these texts ask you to reply \"Y\" to get a link."
+    },
+    {
+      "name": "Look for the warning signs",
+      "text": "The FBI says these texts use nearly the same wording in every state: a small unpaid toll, a late fee if you don't pay, and a link made to look like your state's toll service. You might get one even if you haven't driven on a toll road."
+    },
+    {
+      "name": "Check your toll account yourself",
+      "text": "Go to your toll agency's website by typing the address into your browser, or call a phone number you already know is real. Don't use any link or number from the text. If you really owe a toll, your account will show it."
+    },
+    {
+      "name": "Report it as junk or forward it to 7726",
+      "text": "Use the \"report junk\" or \"report spam\" option in your messaging app, or forward the text to 7726, which spells SPAM. The FTC says this helps your phone company block similar texts."
+    },
+    {
+      "name": "Report it, then delete it",
+      "text": "Report the text to the FTC at ReportFraud.ftc.gov. The FBI also asks people to report these texts at ic3.gov and to include the phone number that sent it and the website in the text. Then delete the message."
+    },
+    {
+      "name": "If you tapped or paid, act now",
+      "text": "Call your bank or card company using the number on the back of your card. Review your accounts and dispute any charges you don't recognize. See the section below for what to do based on what you entered."
+    }
+  ],
+  "details": [
+    {
+      "heading": "How the toll text scam works",
+      "paragraphs": [
+        "The FTC says scammers are pretending to be toll agencies from coast to coast. The text says you owe money for unpaid tolls and shows a dollar amount and a link. The link goes to a fake page that asks for your bank or credit card information.",
+        "The FTC also warns that scammers may try to get personal details such as your driver's license number, which they could use for identity theft.",
+        "In April 2024, the FBI's Internet Crime Complaint Center (IC3) said it had received more than 2,000 complaints about these texts since early March 2024, from at least three states. It said the scam seemed to be moving from state to state, and that the phone numbers sending the texts changed from state to state."
+      ]
+    },
+    {
+      "heading": "What a real toll agency says",
+      "paragraphs": [
+        "In February 2025, New York's governor warned about fake E-ZPass texts, often sent from international numbers. The state said E-ZPass and Tolls by Mail will never text or email you asking for sensitive information such as a credit card number, your birthday, or your Social Security number.",
+        "New York told people to type its official sites, EZPassNY.com and TollsByMailNY.com, into their browser instead of using a link. If you live in another state, look up your own toll agency's website or the phone number on your toll statement, and check there."
+      ]
+    },
+    {
+      "heading": "What to do if you already tapped or entered details",
+      "paragraphs": [
+        "If you only tapped the link: The FTC says that if something may have downloaded, update your security software, run a scan, and remove anything it flags.",
+        "If you entered a card or bank account number: Call your card company or bank right away, using the number on the back of your card or on your statement, not a number from the text. The FBI says to review your accounts and dispute any charges you don't recognize.",
+        "If you entered your Social Security number or other personal details: The FTC says to go to IdentityTheft.gov, where you'll see steps for the kind of information you gave out. If you entered a password, change it, and change it anywhere else you used it."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the unpaid toll text a scam?",
+      "a": "Probably. The FTC says texts about unpaid tolls are probably a scam, and that scammers are pretending to be toll agencies all over the country. The safe move is to skip the link and check your account on your toll agency's real website."
+    },
+    {
+      "q": "I've never driven on a toll road. Why did I get this text?",
+      "a": "The FTC says scammers send these texts whether or not you drove through a toll. They send the same message to many phone numbers, hoping some people pay. Getting one doesn't mean you owe anything."
+    },
+    {
+      "q": "How do I check if I really owe a toll?",
+      "a": "Type your toll agency's website into your browser and log in, or call a phone number you already know is real, like one on a past toll statement. The FBI and FTC both say not to use the link or number in the text."
+    },
+    {
+      "q": "Where do I report a fake toll text?",
+      "a": "Forward it to 7726 (SPAM) or use your app's report junk option. Then report it to the FTC at ReportFraud.ftc.gov. The FBI also takes reports at ic3.gov and asks you to include the sender's phone number and the website from the text."
+    },
+    {
+      "q": "I paid the toll text. What now?",
+      "a": "Call your card company or bank right away using the number on the back of your card. Review your accounts and dispute charges you don't recognize. If you also gave your Social Security number or other personal details, go to IdentityTheft.gov for steps."
+    }
+  ],
+  "warnings": [
+    "Don't reply to the text, not even with \"Y\" or \"STOP.\" New York says some of these texts ask you to reply to get a link.",
+    "A small amount is part of the trick. The real goal is your card number and personal details, not the few dollars.",
+    "A link that looks like your toll agency's name can still be fake. The FBI says the links copy the names of state toll services."
+  ],
+  "sources": [
+    {
+      "label": "Got a text about unpaid tolls? It's probably a scam (January 17, 2025)",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/consumer-alerts/2025/01/got-text-about-unpaid-tolls-its-probably-scam",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Smishing Scam Regarding Debt for Road Toll Services (PSA I-041224-PSA, April 12, 2024)",
+      "publisher": "FBI Internet Crime Complaint Center (IC3)",
+      "url": "https://www.ic3.gov/PSA/2024/PSA240412",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "Governor Hochul Warns Consumers of E-ZPass Text Message Scam (February 16, 2025)",
+      "publisher": "New York State Governor's Office",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-warns-consumers-e-zpass-text-message-scam",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "How to Recognize and Report Spam Text Messages",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/how-recognize-and-report-spam-text-messages",
+      "checked": "2026-10-27"
+    },
+    {
+      "label": "How To Recognize and Avoid Phishing Scams",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams",
+      "checked": "2026-10-27"
+    }
+  ],
+  "last_verified": "2026-10-27",
+  "valid_until": null,
+  "cta": "kit",
+  "target_questions": [
+    "Is the unpaid toll text message a scam?",
+    "Why did I get an unpaid toll text if I never drove on a toll road?",
+    "How do I check if I really owe a toll?",
+    "How do I report a fake toll text?",
+    "What should I do if I paid a toll scam text?"
+  ],
+  "uncertain": [
+    "The FCC page 'How to Spot and Avoid Toll Road Payment Scam Texts' (fcc.gov/consumer-governmental-affairs/how-spot-and-avoid-toll-road-payment-scam-texts) returned HTTP 403 to automated fetches on 2026-10-27. Its claims (E-ZPass, FasTrak and I-PASS impersonation, spoofed sender numbers, 'Dear Customer' greetings, reporting at fcc.gov/complaints) are known only from search snippets and are kept off the page.",
+    "No primary source confirms a nationwide rule that toll agencies never send texts. Some agencies may send real account texts (news reports say NY Thruway texts come from short code 39769, but that is not on the governor's page). The page says only that New York's E-ZPass and Tolls by Mail never text asking for sensitive information.",
+    "The FBI's figure of more than 2,000 complaints from at least three states is from its April 12, 2024 PSA. No newer IC3 count was checked, so the page gives the date with the number.",
+    "The FTC alert (January 17, 2025) says scammers may get your driver's license number, but no fetched source gave specific steps for a stolen driver's license number. IdentityTheft.gov pages did not render for automated reading, so the page relies on the FTC phishing page's wording (go to IdentityTheft.gov for steps based on what you lost).",
+    "The FTC spam-text page is dated July 2022 and the FTC phishing page September 2022; both are still live, and the 2025 FTC toll alert repeats the 7726 advice.",
+    "The video's '$4' / '$4.15' amount is mock framing, not an FTC figure; the FBI PSA's example ($12.51 balance, $50.00 late fee) is not quoted on the page.",
+    "Changing a reused password is the page's general advice and matches the existing first-hour page; none of the toll-specific sources mention passwords."
+  ],
+  "youtube_id": "8EBftZoUoTM"
+}

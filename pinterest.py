@@ -36,6 +36,12 @@ HOOKS = {
     "scammed-what-to-do-first-hour": "Got scammed? What to do in the first hour",
     "stop-prescreened-credit-offers-do-not-call": "Opt out of pre-approved offers and junk calls",
     "voice-memo-to-invoice": "Turn a voice memo into a professional invoice",
+    "medicare-annual-notice-of-change-how-to-read": "That thick Medicare envelope: what to check first",
+    "unpaid-toll-text-scam-what-to-do": "Unpaid toll text? Don't tap that link",
+    "apple-legacy-contact-how-to-set-up": "Could your family get into your Apple account?",
+    "1099-k-20000-200-transactions-rule": "Payment app 1099-K: $20,000 and 200 transactions",
+    "gift-card-payment-scam-what-to-do": "Paid a scammer with a gift card? Act now",
+    "google-inactive-account-manager-set-up": "Pick who gets your Google data before it's deleted",
 }
 # Which 3 steps to tease (0-based). Pages not listed use the first 3.
 PICKS = {
@@ -48,6 +54,7 @@ PICKS = {
     "package-delivery-text-scam-check-link": [0, 2, 3], "receipts-to-spreadsheet-small-business": [0, 1, 4],
     "scammed-what-to-do-first-hour": [0, 1, 5], "stop-prescreened-credit-offers-do-not-call": [0, 4, 5],
     "voice-memo-to-invoice": [0, 2, 3],
+    "medicare-annual-notice-of-change-how-to-read": [1, 2, 3], "unpaid-toll-text-scam-what-to-do": [0, 2, 3], "apple-legacy-contact-how-to-set-up": [1, 3, 5], "1099-k-20000-200-transactions-rule": [0, 1, 4], "gift-card-payment-scam-what-to-do": [0, 3, 6], "google-inactive-account-manager-set-up": [1, 3, 4],
 }
 KEYWORDS = {
     "1099-nec-2000-threshold": "1099-NEC threshold, 1099 for contractors, small business taxes, Form W-9, 1099-K rules",
@@ -67,6 +74,12 @@ KEYWORDS = {
     "scammed-what-to-do-first-hour": "what to do if scammed, report fraud to FTC, scam recovery steps, payment app scam, gift card scam",
     "stop-prescreened-credit-offers-do-not-call": "opt out prescreened offers, OptOutPrescreen, Do Not Call Registry, junk mail, unwanted calls",
     "voice-memo-to-invoice": "voice memo to invoice, invoice template, AI for small business, job notes, small business invoicing",
+    "medicare-annual-notice-of-change-how-to-read": "Medicare Annual Notice of Change, Medicare open enrollment 2026, Medicare Advantage plan changes, Part D drug plan, Medicare help for parents",
+    "unpaid-toll-text-scam-what-to-do": "toll text scam, unpaid toll scam, E-ZPass scam text, smishing, report spam 7726",
+    "apple-legacy-contact-how-to-set-up": "Apple Legacy Contact, digital estate planning, iPhone settings tips, Apple account after death, family tech help",
+    "1099-k-20000-200-transactions-rule": "1099-K threshold, payment app taxes, side hustle taxes, selling online taxes, IRS 1099-K rules",
+    "gift-card-payment-scam-what-to-do": "gift card scam, what to do if scammed, report fraud FTC, scam help for seniors, IRS gift card scam",
+    "google-inactive-account-manager-set-up": "Google Inactive Account Manager, Google account after death, digital legacy planning, inactive Gmail account deletion, Google trusted contacts",
 }
 # Copy must never claim to prevent/stop fraud or identity theft; Medicare pages never name a product.
 BANNED = re.compile(r"prevent|guarantee|stops? (fraud|identity|scam)|protects? you from", re.I)
