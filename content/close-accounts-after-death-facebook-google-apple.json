@@ -1,0 +1,159 @@
+{
+  "slug": "close-accounts-after-death-facebook-google-apple",
+  "topic_id": "s-afterlife-03-close-accounts-forms",
+  "lane": "B",
+  "series": "S-AFTERLIFE",
+  "title": "How Do I Close a Loved One's Facebook, Google, or Apple Account?",
+  "meta_description": "After a death, Facebook, Google, and Apple each have their own request page and ask for different proof. Here's where to go and what each one needs.",
+  "answer": "Facebook, Google, and Apple each have their own help page for a person who has died, and none of them will give out the password. Facebook will memorialize an account when it gets a valid request, and immediate family or the executor can ask for it to be removed. A death certificate is the fastest proof. Google has one page where you can ask to close the account, request funds, or get data, and it reviews every request. Apple lets a Legacy Contact ask for access with the access key and the death certificate. Without a key, Apple usually asks for legal documents such as a court order.",
+  "steps": [
+    {
+      "name": "Gather the paperwork first",
+      "text": "Get a copy of the death certificate. Facebook calls it the fastest proof for removal, and Apple asks for it too. If you are the executor, keep your estate papers close, since Facebook and Apple may ask for proof that you have authority."
+    },
+    {
+      "name": "Facebook: memorialize the account",
+      "text": "Facebook says it memorializes an account when it gets a valid request. Use the request link on Facebook's Help Center page about memorializing an account. The word \"Remembering\" then shows next to the person's name, and no one can log in."
+    },
+    {
+      "name": "Facebook: or ask for removal",
+      "text": "If you are an immediate family member or the executor, you can ask Facebook to remove the account instead. Send a scan or photo of the death certificate. Without one, send one proof of authority (such as a will, estate letter, or power of attorney) and one proof of death (such as an obituary or memorial card)."
+    },
+    {
+      "name": "Google: pick one of three requests",
+      "text": "Go to Google's \"Submit a request regarding a deceased user's account\" page. Choose to close the account, request funds from the account, or get data from the account. Google says it decides only after a careful review."
+    },
+    {
+      "name": "Apple: use the access key if you have one",
+      "text": "A Legacy Contact asks for access on Apple's Digital Legacy website, or on their iPhone or iPad under Settings, their name, Sign-In & Security, Legacy Contact. They need the access key and the death certificate."
+    },
+    {
+      "name": "Apple: no key? Use legal documents",
+      "text": "Without an access key, Apple says that in the U.S. and some other places you can ask for access with a court order that names you as the person entitled to the information. Only one person can make that request. You can also ask Apple to permanently delete the account."
+    }
+  ],
+  "details": [
+    {
+      "heading": "Facebook: memorialize or remove",
+      "paragraphs": [
+        "A memorialized profile is a place for friends and family to share memories. Facebook says the person's posts stay on Facebook, visible to the same people as before. The profile no longer shows up in People You May Know, ads, or birthday reminders.",
+        "No one can log in to a memorialized account. If the person didn't pick a legacy contact ahead of time, the profile can't be changed. A legacy contact can update the profile and cover photos, accept friend requests, and write a pinned post, but can't read messages or remove past posts.",
+        "Removal deletes the account. Facebook needs proof that you're an immediate family member or the executor, and the details on your documents must match the details on the account. Facebook says you can cover private details it doesn't need, such as a Social Security number."
+      ]
+    },
+    {
+      "heading": "Google: close, funds, or data",
+      "paragraphs": [
+        "Google says it can work with immediate family members and representatives to close a deceased person's account where appropriate. In certain cases, it may also share content from the account after a review.",
+        "Choose carefully. Google says that once an account is closed, it can't later hand over the account's contents. If you might want photos or files, ask for data before or instead of closing."
+      ]
+    },
+    {
+      "heading": "Apple: Legacy Contact or court order",
+      "paragraphs": [
+        "Apple calls Legacy Contact the easiest, most secure way to give someone access after death. Once Apple approves a Legacy Contact request, that person gets a special Legacy Contact Apple Account, and the original account stops working. Apple says this access lasts three years from approval, and then the account is permanently deleted, so download anything you want to keep.",
+        "Without a Legacy Contact, Apple requires and checks legal documents. Apple says this usually means a death certificate and may also mean a court order. Some countries, such as Japan, ask for a different document.",
+        "Apple may be able to help remove Activation Lock from the person's devices. The device still has to be erased and restored before someone else can use it."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will Facebook, Google, or Apple give me the password?",
+      "a": "No. Facebook says it can't provide login information for someone else's account. Google says it cannot provide passwords or other login details. Apple gives a Legacy Contact a separate Legacy Contact account, not the original password."
+    },
+    {
+      "q": "Who can ask Facebook to memorialize an account?",
+      "a": "Facebook says it memorializes an account when it gets a valid request. Removal is different: Facebook asks for proof that you're an immediate family member or the executor."
+    },
+    {
+      "q": "What if I don't have a death certificate yet?",
+      "a": "For Facebook removal, you can send one proof of authority, like a will or estate letter, and one proof of death, like an obituary or memorial card. Apple and Google may ask for specific documents during their own request steps."
+    },
+    {
+      "q": "Should I close the Google account right away?",
+      "a": "Not if you might want anything from it. Google says that after an account is closed, it can't later turn over the contents. Ask for data first if photos, files, or emails matter to your family."
+    },
+    {
+      "q": "What if my loved one didn't set up an Apple Legacy Contact?",
+      "a": "Apple says that in the U.S. and some other places you can ask for access with a court order that names you as the person entitled to the information. Only one person can make that request. You can also ask Apple to delete the account."
+    }
+  ],
+  "warnings": [
+    "Closing a Google account is final. Google says it can't hand over the account's contents later, so ask for data first if you want it.",
+    "Apple's Legacy Contact access ends three years after approval, and then the account is deleted. Download what you want to keep before then.",
+    "Start requests only on the companies' own help pages. Don't use links from unexpected emails or texts about a loved one's account.",
+    "Cover private details the companies don't need, such as a Social Security number, before you upload documents."
+  ],
+  "sources": [
+    {
+      "label": "Memorializing the account of someone who has passed away",
+      "publisher": "Facebook Help Center",
+      "url": "https://www.facebook.com/help/150486848354038",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "Request removal of a deceased person's account",
+      "publisher": "Facebook Help Center",
+      "url": "https://www.facebook.com/help/1518259735093203",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "What are memorialized accounts on Facebook?",
+      "publisher": "Facebook Help Center",
+      "url": "https://www.facebook.com/help/103897939701143",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "Legacy contacts on Facebook",
+      "publisher": "Facebook Help Center",
+      "url": "https://www.facebook.com/help/1506822589577997",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "Submit a request regarding a deceased user's account",
+      "publisher": "Google Account Help",
+      "url": "https://support.google.com/accounts/troubleshooter/6357590",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "How to add a Legacy Contact for your Apple Account",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/102631",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "Request access to an Apple Account as a Legacy Contact",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/102678",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "Request access to a deceased family member's Apple Account",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/102431",
+      "checked": "2026-10-30"
+    }
+  ],
+  "last_verified": "2026-10-30",
+  "valid_until": null,
+  "cta": "none",
+  "target_questions": [
+    "How do I memorialize or remove a Facebook account after someone dies?",
+    "What documents does Facebook need to remove a deceased person's account?",
+    "How do I close a deceased person's Google account?",
+    "How do I get into a deceased family member's Apple account?",
+    "Will Facebook, Google, or Apple give me a dead person's password?"
+  ],
+  "uncertain": [
+    "The video's line that the funeral home usually reports the death to Social Security isn't on this page. Both SSA pages (ssa.gov/personal-record/when-someone-dies and ssa.gov/benefits/survivors/ifyou.html) returned HTTP 403 to the automated fetch on 2026-10-30.",
+    "Facebook's memorialization page says it acts on a 'valid request' but doesn't define who may ask or what proof is needed for memorialization. The page doesn't add any.",
+    "Facebook's request form (help/contact/234739086860192) is linked from its help page but wasn't opened, so its fields aren't described or cited.",
+    "Google's deceased-user page doesn't list which documents (for example, a death certificate) it needs. Those appear inside the request forms, which weren't opened.",
+    "Google's 'request funds' option isn't explained on the page that was read, so the page doesn't say what it covers.",
+    "Apple's deletion request needs the requester's own Apple Account plus legal documents per page 102431. The exact documents for deletion weren't checked separately.",
+    "The Facebook help article titles in the sources are descriptive labels; the live page titles weren't captured word for word by the fetch tool.",
+    "Instagram, PayPal, and streaming services weren't checked and aren't covered."
+  ],
+  "youtube_id": "d_i-6sEnTA8"
+}

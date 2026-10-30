@@ -42,6 +42,12 @@ HOOKS = {
     "1099-k-20000-200-transactions-rule": "Payment app 1099-K: $20,000 and 200 transactions",
     "gift-card-payment-scam-what-to-do": "Paid a scammer with a gift card? Act now",
     "google-inactive-account-manager-set-up": "Pick who gets your Google data before it's deleted",
+    "boi-report-letter-scam-us-companies-exempt": "BOI letter wants a fee? FinCEN says: scam.",
+    "work-from-home-job-fake-check-scam": "New job sent a check? It's a scam.",
+    "close-accounts-after-death-facebook-google-apple": "When someone dies: Facebook, Google and Apple request pages",
+    "free-small-business-mentor-score-sbdc": "Free business mentor? Just type your ZIP code",
+    "freeze-child-credit-free-under-16": "Freeze your kid's credit for free: here's how",
+    "louisiana-small-succession-limit": "Louisiana's small succession limit just jumped to $200,000",
 }
 # Which 3 steps to tease (0-based). Pages not listed use the first 3.
 PICKS = {
@@ -55,6 +61,12 @@ PICKS = {
     "scammed-what-to-do-first-hour": [0, 1, 5], "stop-prescreened-credit-offers-do-not-call": [0, 4, 5],
     "voice-memo-to-invoice": [0, 2, 3],
     "medicare-annual-notice-of-change-how-to-read": [1, 2, 3], "unpaid-toll-text-scam-what-to-do": [0, 2, 3], "apple-legacy-contact-how-to-set-up": [1, 3, 5], "1099-k-20000-200-transactions-rule": [0, 1, 4], "gift-card-payment-scam-what-to-do": [0, 3, 6], "google-inactive-account-manager-set-up": [1, 3, 4],
+    "boi-report-letter-scam-us-companies-exempt": [1, 2, 3],
+    "work-from-home-job-fake-check-scam": [0, 2, 3],
+    "close-accounts-after-death-facebook-google-apple": [2, 3, 5],
+    "free-small-business-mentor-score-sbdc": [1, 3, 4],
+    "freeze-child-credit-free-under-16": [0, 2, 5],
+    "louisiana-small-succession-limit": [0, 1, 3],
 }
 KEYWORDS = {
     "1099-nec-2000-threshold": "1099-NEC threshold, 1099 for contractors, small business taxes, Form W-9, 1099-K rules",
@@ -80,6 +92,12 @@ KEYWORDS = {
     "1099-k-20000-200-transactions-rule": "1099-K threshold, payment app taxes, side hustle taxes, selling online taxes, IRS 1099-K rules",
     "gift-card-payment-scam-what-to-do": "gift card scam, what to do if scammed, report fraud FTC, scam help for seniors, IRS gift card scam",
     "google-inactive-account-manager-set-up": "Google Inactive Account Manager, Google account after death, digital legacy planning, inactive Gmail account deletion, Google trusted contacts",
+    "boi-report-letter-scam-us-companies-exempt": "BOI report scam, FinCEN Form 4022, beneficial ownership letter, small business scam, LLC fraud alert",
+    "work-from-home-job-fake-check-scam": "fake check scam, work from home job scam, job scam warning signs, reshipping scam, FTC scam tips",
+    "close-accounts-after-death-facebook-google-apple": "close deceased Facebook account, memorialize Facebook, Google deceased user request, Apple Legacy Contact, digital estate checklist",
+    "free-small-business-mentor-score-sbdc": "free business mentor, SCORE mentoring, small business development center, SBA local assistance, small business help",
+    "freeze-child-credit-free-under-16": "child credit freeze, child identity theft, credit freeze for kids, child SSN safety, family identity protection",
+    "louisiana-small-succession-limit": "Louisiana small succession, small succession affidavit, Louisiana probate, settling a parent's estate, Louisiana estate limit 2026",
 }
 # Copy must never claim to prevent/stop fraud or identity theft; Medicare pages never name a product.
 BANNED = re.compile(r"prevent|guarantee|stops? (fraud|identity|scam)|protects? you from", re.I)

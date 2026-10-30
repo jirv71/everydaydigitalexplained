@@ -1,0 +1,144 @@
+{
+  "slug": "free-small-business-mentor-score-sbdc",
+  "topic_id": "s-biz-10-free-sba-mentors",
+  "lane": "A",
+  "series": "S-BIZ",
+  "title": "How do I find a free business mentor (SCORE or SBDC) by ZIP code?",
+  "meta_description": "Use the SBA's local assistance tool to find SCORE mentors and your Small Business Development Center by ZIP code. What each offers and what it costs.",
+  "answer": "The U.S. Small Business Administration (SBA) says it and its partners offer free or low-cost counseling and training, and its local assistance tool on SBA.gov finds them by ZIP code. Enter your 5-digit ZIP and, if you like, pick a partner type: SCORE Business Mentor, Small Business Development Center (SBDC), Women's Business Center or Veterans Business Outreach Center. The SBA says SCORE is a nonprofit whose volunteer mentors give advice at no cost by email, phone or video. America's SBDC, the SBDC network's association, says its centers offer no-cost business consulting and low-cost training.",
+  "steps": [
+    {
+      "name": "Go to the SBA's Local Assistance page",
+      "text": "Type SBA.gov/local-assistance into your browser. The SBA says it and its partners offer free or low-cost counseling and training in your area. Choose \"Find help nearby\" to open the ZIP code tool."
+    },
+    {
+      "name": "Enter your ZIP code",
+      "text": "Type your 5-digit ZIP code. The tool asks for a valid 5-digit code and lists SBA Resource Partners in your area."
+    },
+    {
+      "name": "Pick a partner type, or leave it on Any",
+      "text": "The filter lets you choose SCORE Business Mentor, Small Business Development Center, Veterans Business Outreach Center or Women's Business Center. Leave it on \"Any\" to see them all."
+    },
+    {
+      "name": "Try SCORE for a volunteer mentor",
+      "text": "The SBA says SCORE is a nonprofit and that its mentors give area-specific advice at no cost, on topics like financing, human resources and business planning, by email, phone or video."
+    },
+    {
+      "name": "Try your SBDC for one-on-one advising",
+      "text": "The SBA says SBDCs give individualized business advising on things like access to money, planning, operations, financial management, marketing and exporting. America's SBDC says consulting is no-cost and training is low-cost."
+    },
+    {
+      "name": "Bring your numbers to the first meeting",
+      "text": "This is our tip, not an SBA rule: write down your sales, your costs and your top questions before you meet. A mentor can help more when they can see where you stand."
+    }
+  ],
+  "details": [
+    {
+      "heading": "SCORE, SBDCs and the other SBA partners",
+      "paragraphs": [
+        "The SBA calls these groups Resource Partners. Its Local Assistance page lists four: Small Business Development Centers (SBDC), SCORE Business Mentoring, Veterans Business Outreach Centers (VBOC) and Women's Business Centers (WBC).",
+        "SCORE is a nonprofit network of volunteer business mentors. The SBA says SCORE mentors offer advice at no cost. The SBA Learning Platform page also says SCORE provides free counseling and workshops.",
+        "SBDCs give one-on-one advising and training to new and existing small businesses. The SBA's own page does not list a price for SBDC services. America's SBDC says to contact your local SBDC for no-cost business consulting and low-cost business training."
+      ]
+    },
+    {
+      "heading": "Help for women and for veterans",
+      "paragraphs": [
+        "The SBA says Women's Business Centers are part of a national network that helps women start and grow small businesses, and that they offer free to low-cost counseling and training.",
+        "Veterans Business Outreach Centers serve service members, veterans, National Guard and Reserve members, military spouses and family members. The SBA lists workshops, training, counseling, mentoring, business plan help and referrals. The SBA page does not list a price for VBOC services, so ask when you call."
+      ]
+    },
+    {
+      "heading": "Other ways to search",
+      "paragraphs": [
+        "You can also look up your local SBA district office from the Local Assistance page. The SBA says district offices provide small business counseling, training and tools.",
+        "To find an SBDC directly, America's SBDC has a \"Find Your SBDC\" search by ZIP code or state on its own site."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a SCORE mentor really free?",
+      "a": "The SBA says SCORE mentors offer advice at no cost. SCORE is a nonprofit and its mentors are volunteers. Some workshops or events may be run differently, so check the details of any event before you sign up."
+    },
+    {
+      "q": "Does an SBDC charge for advising?",
+      "a": "The SBA's page does not list a price. America's SBDC says its centers offer no-cost business consulting and low-cost business training. Ask your local center about any fees before you sign up for a class."
+    },
+    {
+      "q": "What's the difference between SCORE and an SBDC?",
+      "a": "SCORE is a nonprofit network of volunteer mentors. SBDCs are centers that give individualized business advising and training. You can contact either one, or both."
+    },
+    {
+      "q": "Do I need to have a business already?",
+      "a": "No. The SBA says SBDCs help both existing businesses and people who are still planning one. SCORE also covers topics like business planning."
+    },
+    {
+      "q": "Can I meet a mentor online?",
+      "a": "Yes. The SBA says SCORE mentors give advice by email, phone or video, so you don't have to meet in person."
+    }
+  ],
+  "warnings": [
+    "Start from SBA.gov or the partner's own site. Be careful with ads or sites that charge for a \"government\" mentor list.",
+    "SBDC consulting is described as no-cost, but some training can carry a low fee. Ask before you register.",
+    "Don't share your Social Security number or bank logins just to book a first meeting.",
+    "A mentor gives advice, not legal or tax filings. Check big tax or legal choices with a licensed pro."
+  ],
+  "sources": [
+    {
+      "label": "Local assistance",
+      "publisher": "U.S. Small Business Administration",
+      "url": "https://www.sba.gov/local-assistance",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "Resource partners: SCORE Business Mentoring, SBDCs, WBCs and VBOCs",
+      "publisher": "U.S. Small Business Administration",
+      "url": "https://www.sba.gov/local-assistance/resource-partners/score-business-mentoring",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "Find local assistance (ZIP code tool)",
+      "publisher": "U.S. Small Business Administration",
+      "url": "https://legacy.sba.gov/local-assistance/find",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "SBA Learning Platform",
+      "publisher": "U.S. Small Business Administration",
+      "url": "https://www.sba.gov/sba-learning-platform",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "America's SBDC home page",
+      "publisher": "America's SBDC",
+      "url": "https://americassbdc.org/",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "Find your SBDC",
+      "publisher": "America's SBDC",
+      "url": "https://americassbdc.org/find-your-sbdc/",
+      "checked": "2026-10-30"
+    }
+  ],
+  "last_verified": "2026-10-30",
+  "valid_until": null,
+  "cta": "biz",
+  "target_questions": [
+    "How do I find a free small business mentor near me?",
+    "Is SCORE mentoring really free?",
+    "Does a Small Business Development Center charge for advising?",
+    "What is the difference between SCORE and an SBDC?",
+    "How do I use the SBA local assistance tool by ZIP code?"
+  ],
+  "uncertain": [
+    "score.org returned HTTP 403 on 2026-10-30, so SCORE's own statements (cost of workshops, how mentor requests work, mentor counts) were not checked. SCORE facts on the page come only from SBA pages.",
+    "The SBA's resource-partner page gives no price for SBDC or VBOC services. 'No-cost consulting and low-cost training' for SBDCs comes from America's SBDC (americassbdc.org); its Find page also says 'free business consulting and at-cost training'. VBOC cost was not confirmed anywhere and is left unstated.",
+    "www.sba.gov/local-assistance/find and /local-assistance/district redirected (HTTP 302) to legacy.sba.gov on 2026-10-30; the tool was read on legacy.sba.gov. The SBA may move or rename the tool, and the 'Find help nearby' button label is from the Local assistance page.",
+    "The SBA VBOC section says 31 organizations serve as VBOCs, but only 29 regional listings were counted, and America's SBDC says it has 'nearly 1,000 centers'. Both counts are left off the page because they change.",
+    "The 'bring your numbers' tip and the warnings about paid lookalike sites and sharing an SSN are our own advice, not SBA statements.",
+    "That SCORE events or workshops may differ in cost from mentoring is not confirmed; the FAQ only tells readers to check event details."
+  ],
+  "youtube_id": "-a6ft6uFrRs"
+}

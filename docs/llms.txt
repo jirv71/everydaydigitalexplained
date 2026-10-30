@@ -4,6 +4,8 @@
 
 ## Small-business money admin
 
+- [BOI Report Letter Demanding a Fee? U.S. Companies Don't File Now](https://jirv71.github.io/everydaydigitalexplained/boi-report-letter-scam-us-companies-exempt/): FinCEN says U.S. companies no longer file BOI reports. It has no Form 4022 or 5102 and charges no fee to file. Don't scan the QR code; check fincen.gov/boi.
+- [How do I find a free business mentor (SCORE or SBDC) by ZIP code?](https://jirv71.github.io/everydaydigitalexplained/free-small-business-mentor-score-sbdc/): Use the SBA's local assistance tool to find SCORE mentors and your Small Business Development Center by ZIP code. What each offers and what it costs.
 - [Is the 1099-K threshold for payment apps $20,000 and 200 sales?](https://jirv71.github.io/everydaydigitalexplained/1099-k-20000-200-transactions-rule/): Payment apps must send a 1099-K only over $20,000 and 200 transactions. Card payments have no minimum, and you report income even without a form.
 - [What does payroll software do when you hire your first employee?](https://jirv71.github.io/everydaydigitalexplained/first-employee-payroll-what-software-does/): Employee or contractor, the IRS steps (EIN, W-4, I-9, FICA, FUTA, deposits, W-2s due Feb. 1, 2027) and what payroll software can't do for you.
 - [How do I turn a shoebox of receipts into a clean spreadsheet?](https://jirv71.github.io/everydaydigitalexplained/receipts-to-spreadsheet-small-business/): What the IRS says to keep and for how long, how to sort receipts, using AI or a phone scan, and the bank-statement check you can't skip.
@@ -14,6 +16,10 @@
 
 ## Protect your parents
 
+- [How Do I Close a Loved One's Facebook, Google, or Apple Account?](https://jirv71.github.io/everydaydigitalexplained/close-accounts-after-death-facebook-google-apple/): After a death, Facebook, Google, and Apple each have their own request page and ask for different proof. Here's where to go and what each one needs.
+- [How Do I Freeze My Child's Credit for Free? (Under 16)](https://jirv71.github.io/everydaydigitalexplained/freeze-child-credit-free-under-16/): The FTC says parents can get a free credit freeze for a child under 16. What Equifax, Experian and TransUnion each ask for, and where to mail it.
+- [What Is a Small Succession in Louisiana? The New $200,000 Limit](https://jirv71.github.io/everydaydigitalexplained/louisiana-small-succession-limit/): Louisiana calls probate 'succession.' Since Aug. 1, 2026, a small succession for a Louisiana resident is $200,000 or less in gross value. What that means.
+- [Work-From-Home Job Sent You a Check? Is It a Scam, and What Do I Do?](https://jirv71.github.io/everydaydigitalexplained/work-from-home-job-fake-check-scam/): The FTC says no honest employer sends a check and asks you to send part back. Don't send money, don't pay for a job, and report it at ReportFraud.ftc.gov.
 - [How Do I Set Up a Legacy Contact for My Apple Account?](https://jirv71.github.io/everydaydigitalexplained/apple-legacy-contact-how-to-set-up/): Add an Apple Legacy Contact in a few taps, share the access key, and learn what your family can and can't get to after you die, per Apple Support.
 - [Told to Pay With a Gift Card? Is It a Scam, and What If I Already Did?](https://jirv71.github.io/everydaydigitalexplained/gift-card-payment-scam-what-to-do/): The FTC says only scammers ask you to pay with a gift card. If you already did, call the card company, keep the card and receipt, and report it to the FTC.
 - [How Do I Set Up Google's Inactive Account Manager?](https://jirv71.github.io/everydaydigitalexplained/google-inactive-account-manager-set-up/): Google may delete a personal account unused for 2 years. Inactive Account Manager lets you pick up to 10 people to get your data, or have the account deleted.

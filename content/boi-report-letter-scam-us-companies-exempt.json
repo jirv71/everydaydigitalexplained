@@ -1,0 +1,140 @@
+{
+  "slug": "boi-report-letter-scam-us-companies-exempt",
+  "topic_id": "s-biz-09-boi-letters-us-exempt",
+  "lane": "A",
+  "series": "S-BIZ",
+  "title": "BOI Report Letter Demanding a Fee? U.S. Companies Don't File Now",
+  "meta_description": "FinCEN says U.S. companies no longer file BOI reports. It has no Form 4022 or 5102 and charges no fee to file. Don't scan the QR code; check fincen.gov/boi.",
+  "answer": "Be very careful: a letter like that is a red flag. FinCEN, the Treasury office that runs beneficial ownership information (BOI) reporting, says U.S. companies are exempt and no longer have to file BOI reports. Its final rule took effect on August 14, 2026, and only certain foreign companies registered to do business in the U.S. still report. FinCEN says it has no \"Form 4022\" or \"Form 5102,\" there is no government office called the \"US Business Regulations Dept.,\" and there is no fee to file BOI directly with FinCEN. Don't pay, don't scan the QR code, and check by typing fincen.gov/boi into your browser yourself.",
+  "steps": [
+    {
+      "name": "Don't pay and don't send information",
+      "text": "FinCEN says it does not send letters asking for payment to file BOI, and you should not send money in response to any BOI mailing that claims to be from FinCEN or another government agency. Don't fill out the form or mail back a check."
+    },
+    {
+      "name": "Look for the red flags",
+      "text": "FinCEN says letters that mention a \"Form 4022\" or \"Form 5102\" or come from a \"US Business Regulations Dept.\" are fraudulent. It also warns about letters that ask for payment, push a QR code or link, or bring up penalties. FinCEN does not have those forms, and no government office has that name."
+    },
+    {
+      "name": "Don't scan the QR code or click the link",
+      "text": "FinCEN says not to click suspicious links or attachments or scan suspicious QR codes. Its December 2024 alert says scammers use links and QR codes to send people to fake sites that take payments and personal details."
+    },
+    {
+      "name": "Check fincen.gov/boi yourself",
+      "text": "Type fincen.gov/boi into your browser instead of using anything printed on the letter. FinCEN's page says U.S. companies are exempt from BOI reporting and are no longer required to file BOI reports."
+    },
+    {
+      "name": "Report the letter",
+      "text": "FinCEN's alert says to report anyone misusing FinCEN's name to the Treasury Office of Inspector General and to the FTC at ReportFraud.ftc.gov. If the scam reached you online or by email, the alert says to also file a complaint with the FBI's Internet Crime Complaint Center (IC3)."
+    },
+    {
+      "name": "If you already paid, act fast",
+      "text": "The FTC says to report a card payment to your card issuer or bank right away and ask for your money back. If you gave out your Social Security number, the FTC says to go to IdentityTheft.gov for a recovery plan."
+    }
+  ],
+  "details": [
+    {
+      "heading": "Why U.S. companies don't file BOI anymore",
+      "paragraphs": [
+        "The Corporate Transparency Act set up BOI reporting, where companies tell FinCEN who owns or controls them. On March 26, 2025, FinCEN published an interim final rule that dropped the requirement for U.S. companies.",
+        "On August 11, 2026, FinCEN announced a final rule that permanently removes the requirement for U.S. companies and U.S. persons. FinCEN's BOI page says the final rule became effective on August 14, 2026, and that U.S. companies are exempt and no longer required to file BOI reports.",
+        "Under the new rule, FinCEN's page says U.S. people do not need to give BOI to reporting companies, and U.S. people with a FinCEN ID do not need to update what they sent before. FinCEN also says it will delete information previously reported by U.S. persons. Only certain foreign companies registered to do business in the U.S. still report, and they report only their non-U.S. owners."
+      ]
+    },
+    {
+      "heading": "What the scam letters look like",
+      "paragraphs": [
+        "FinCEN's December 18, 2024 alert says scammers contact businesses by text, email or regular mail. They may use names that sound like FinCEN or a government agency, such as a \"United States Business Regulations Department\" or \"Annual Records Service.\"",
+        "The alert says some letters use fake forms like a \"Form 4022\" or \"Form 5102\" and warn of big fines, penalties or legal action unless you send your information and a filing fee. Some ask for a check or money order by mail. Others include links or QR codes that lead to fake websites.",
+        "Some scammers pose as filing companies that collect a fee but never file anything. FinCEN says there is no fee to file BOI directly with FinCEN."
+      ]
+    },
+    {
+      "heading": "What to do if you already paid or replied",
+      "paragraphs": [
+        "If you paid by credit card, the FTC says to report it to your card issuer right away and ask for a refund. If you paid by debit card, report it to your bank or credit union right away. If you mailed a check or money order, call your bank or the company that issued the money order using a number you find yourself.",
+        "If you gave out your Social Security number or other personal details, the FTC says to go to IdentityTheft.gov to report it and get a recovery plan. Then report the letter to the FTC at ReportFraud.ftc.gov and to the Treasury Office of Inspector General.",
+        "This page explains public FinCEN and FTC guidance. It is not legal advice. If your company was formed outside the U.S., check fincen.gov/boi or talk to a professional about whether you still need to report."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does my U.S. LLC or corporation still have to file a BOI report?",
+      "a": "No. FinCEN's BOI page says U.S. companies are exempt from BOI reporting and are no longer required to file BOI reports. FinCEN says its final rule became effective on August 14, 2026."
+    },
+    {
+      "q": "Is Form 4022 a real FinCEN form?",
+      "a": "No. FinCEN says it does not have a \"Form 4022\" or a \"Form 5102,\" and that letters mentioning those forms are fraudulent. Don't send your information to anyone using those forms."
+    },
+    {
+      "q": "Is there a fee to file a BOI report?",
+      "a": "Not with FinCEN. FinCEN says there is no fee to file BOI directly with FinCEN, and it does not send letters asking for payment to file BOI."
+    },
+    {
+      "q": "What is the US Business Regulations Dept.?",
+      "a": "It isn't a real government office. FinCEN says letters from a \"US Business Regulations Dept.\" are fraudulent and that no government entity has that name."
+    },
+    {
+      "q": "Where do I report a fake BOI letter?",
+      "a": "FinCEN's alert says to report it to the Treasury Office of Inspector General and to the FTC at ReportFraud.ftc.gov. If the scam happened online or by email, it also says to file a complaint with the FBI's IC3."
+    }
+  ],
+  "warnings": [
+    "A letter that threatens fines or legal action for not filing BOI is a red flag. FinCEN says it does not send first notices about penalties by email or phone, and U.S. companies are now exempt.",
+    "Don't call a phone number or visit a website printed on the letter. Type fincen.gov/boi into your browser yourself.",
+    "Some scammers pose as private filing services. FinCEN says filing BOI directly with FinCEN has no fee."
+  ],
+  "sources": [
+    {
+      "label": "Beneficial Ownership Information Reporting (alert updated August 11, 2026)",
+      "publisher": "FinCEN",
+      "url": "https://www.fincen.gov/boi",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "FinCEN Permanently Ends Beneficial Ownership Reporting Requirements for Millions (August 11, 2026)",
+      "publisher": "FinCEN",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "FinCEN Alert on Fraud Schemes Abusing FinCEN's Name, Insignia, and Authorities for Financial Gain (FIN-2024-Alert005, December 18, 2024)",
+      "publisher": "FinCEN",
+      "url": "https://www.fincen.gov/system/files/2024-12/Alert-FinCEN-Scams-FINAL508.pdf",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "What To Do if You Were Scammed",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/what-do-if-you-were-scammed",
+      "checked": "2026-10-30"
+    },
+    {
+      "label": "How To Avoid a Government Impersonation Scam",
+      "publisher": "FTC Consumer Advice",
+      "url": "https://consumer.ftc.gov/articles/how-avoid-government-impersonation-scam",
+      "checked": "2026-10-30"
+    }
+  ],
+  "last_verified": "2026-10-30",
+  "valid_until": null,
+  "cta": "biz",
+  "target_questions": [
+    "Do U.S. companies still have to file a BOI report?",
+    "Is the BOI report letter asking for a fee a scam?",
+    "Is Form 4022 from FinCEN real?",
+    "Is there a fee to file a beneficial ownership report?",
+    "How do I report a fake BOI letter?"
+  ],
+  "uncertain": [
+    "Effective date: FinCEN's BOI page (alert updated August 11, 2026) says the final rule 'became effective on August 14, 2026', so the page states it. FinCEN's August 11, 2026 news release says only that the rule is effective on publication in the Federal Register. The Federal Register entry (public inspection document 2026-16576) redirected to a bot check on 2026-10-30 and could not be read, so the publication date was not confirmed there.",
+    "Foreign company deadlines: FinCEN's BOI page still lists the interim-rule deadlines (April 25, 2025 for foreign companies registered before March 26, 2025; 30 calendar days for those registered later). It was not confirmed that the final rule keeps those deadlines, so they are kept off the page. The page says only that certain foreign companies still report, and only their non-U.S. owners (per the news release).",
+    "FinCEN's December 18, 2024 alert was written during a court injunction and says reporting was voluntary 'at this time'; that context is outdated. The page uses the alert only for scam tactics and where to report.",
+    "The alert's reporting advice (Treasury OIG, ReportFraud.ftc.gov, IC3 for cyber-enabled scams) dates from December 2024. FinCEN's current BOI page does not name where to report.",
+    "The FTC 'What To Do if You Were Scammed' page (June 2026) does not cover checks or money orders; the advice to call your bank or the money order company is general guidance, not an FTC quote.",
+    "The '$299' fee on the video's mock letter is fictional. A Mississippi Secretary of State document reportedly describes a $117 fee on a fake form, but it was not fetched and no fee amount is used on the page. State secretary of state alerts (Maine, Montana, South Carolina, Pennsylvania) were not fetched.",
+    "News reports say FinCEN expects about 28,000 companies to report under the final rule; this was seen only in a search summary, not on a fetched FinCEN page, and is not used."
+  ],
+  "youtube_id": "dnMD3Zj9qt8"
+}
